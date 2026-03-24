@@ -1,0 +1,121 @@
+{
+    "__typename": "HideoutStationLevel",
+    "id": "5d388e97081959000a123acf-2",
+    "level": 2,
+    "description": "A potbelly stove is a metal stove for interior heating, popular in the first half of the 20th century. An irreplaceable thing in the Hideout, especially when connected to the ventilation system for the output of combustion products.",
+    "constructionTime": 7200,
+    "itemRequirements": [
+        {
+            "__typename": "RequirementItem",
+            "id": "5d388e97081959000a123acf-2-0",
+            "item": {
+                "__typename": "Item",
+                "id": "5449016a4bdc2d6f028b456f",
+                "shortName": "RUB",
+                "name": "Roubles",
+                "link": "https://tarkov.dev/item/roubles",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Roubles",
+                "image512pxLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-8x.webp",
+                "backgroundColor": "green"
+            },
+            "count": 100000,
+            "quantity": 100000
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d388e97081959000a123acf-2-4",
+            "item": {
+                "__typename": "Item",
+                "id": "5e2af2bc86f7746d3f3c33fc",
+                "shortName": "HMatches",
+                "name": "Hunting matches",
+                "link": "https://tarkov.dev/item/hunting-matches",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Hunting_matches",
+                "image512pxLink": "https://assets.tarkov.dev/5e2af2bc86f7746d3f3c33fc-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/5e2af2bc86f7746d3f3c33fc-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/5e2af2bc86f7746d3f3c33fc-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/5e2af2bc86f7746d3f3c33fc-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/5e2af2bc86f7746d3f3c33fc-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 4,
+            "quantity": 4
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d388e97081959000a123acf-2-5",
+            "item": {
+                "__typename": "Item",
+                "id": "590a373286f774287540368b",
+                "shortName": "DFuel",
+                "name": "Dry fuel",
+                "link": "https://tarkov.dev/item/dry-fuel",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Dry_fuel",
+                "image512pxLink": "https://assets.tarkov.dev/590a373286f774287540368b-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/590a373286f774287540368b-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/590a373286f774287540368b-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/590a373286f774287540368b-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/590a373286f774287540368b-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 6,
+            "quantity": 6
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d388e97081959000a123acf-2-6",
+            "item": {
+                "__typename": "Item",
+                "id": "56742c284bdc2d98058b456d",
+                "shortName": "Crickent",
+                "name": "Crickent lighter",
+                "link": "https://tarkov.dev/item/crickent-lighter",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crickent_lighter",
+                "image512pxLink": "https://assets.tarkov.dev/56742c284bdc2d98058b456d-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/56742c284bdc2d98058b456d-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/56742c284bdc2d98058b456d-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/56742c284bdc2d98058b456d-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/56742c284bdc2d98058b456d-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 6,
+            "quantity": 6
+        }
+    ],
+    "stationLevelRequirements": [
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d388e97081959000a123acf-2-1",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d473c1e081959000e530190",
+                "name": "Vents"
+            },
+            "level": 1
+        },
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d388e97081959000a123acf-2-2",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d388e97081959000a123acf",
+                "name": "Heating"
+            },
+            "level": 1
+        }
+    ],
+    "skillRequirements": [
+        {
+            "__typename": "RequirementSkill",
+            "id": "5d388e97081959000a123acf-2-3",
+            "name": "Endurance",
+            "level": 1
+        }
+    ],
+    "traderRequirements": [],
+    "crafts": []
+}

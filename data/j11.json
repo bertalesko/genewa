@@ -1,0 +1,134 @@
+{
+    "__typename": "HideoutStationLevel",
+    "id": "5d484fc0654e76006657e0ab-2",
+    "level": 2,
+    "description": "Medium stash (10x40)",
+    "constructionTime": 86400,
+    "itemRequirements": [
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fc0654e76006657e0ab-2-0",
+            "item": {
+                "__typename": "Item",
+                "id": "5d1b317c86f7742523398392",
+                "shortName": "Hand drill",
+                "name": "Hand drill",
+                "link": "https://tarkov.dev/item/hand-drill",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Hand_drill",
+                "image512pxLink": "https://assets.tarkov.dev/5d1b317c86f7742523398392-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/5d1b317c86f7742523398392-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/5d1b317c86f7742523398392-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/5d1b317c86f7742523398392-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/5d1b317c86f7742523398392-8x.webp",
+                "backgroundColor": "violet"
+            },
+            "count": 1,
+            "quantity": 1
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fc0654e76006657e0ab-2-1",
+            "item": {
+                "__typename": "Item",
+                "id": "59e35ef086f7741777737012",
+                "shortName": "Screws",
+                "name": "Pack of screws",
+                "link": "https://tarkov.dev/item/pack-of-screws",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pack_of_screws",
+                "image512pxLink": "https://assets.tarkov.dev/59e35ef086f7741777737012-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/59e35ef086f7741777737012-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/59e35ef086f7741777737012-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/59e35ef086f7741777737012-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/59e35ef086f7741777737012-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 10,
+            "quantity": 10
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fc0654e76006657e0ab-2-2",
+            "item": {
+                "__typename": "Item",
+                "id": "590c5bbd86f774785762df04",
+                "shortName": "WD-40",
+                "name": "WD-40 (100ml)",
+                "link": "https://tarkov.dev/item/wd-40-100ml",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/WD-40_(100ml)",
+                "image512pxLink": "https://assets.tarkov.dev/590c5bbd86f774785762df04-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/590c5bbd86f774785762df04-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/590c5bbd86f774785762df04-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/590c5bbd86f774785762df04-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/590c5bbd86f774785762df04-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 4,
+            "quantity": 4
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fc0654e76006657e0ab-2-4",
+            "item": {
+                "__typename": "Item",
+                "id": "5449016a4bdc2d6f028b456f",
+                "shortName": "RUB",
+                "name": "Roubles",
+                "link": "https://tarkov.dev/item/roubles",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Roubles",
+                "image512pxLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-8x.webp",
+                "backgroundColor": "green"
+            },
+            "count": 2500000,
+            "quantity": 2500000
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fc0654e76006657e0ab-2-6",
+            "item": {
+                "__typename": "Item",
+                "id": "590c31c586f774245e3141b2",
+                "shortName": "Nails",
+                "name": "Pack of nails",
+                "link": "https://tarkov.dev/item/pack-of-nails",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pack_of_nails",
+                "image512pxLink": "https://assets.tarkov.dev/590c31c586f774245e3141b2-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/590c31c586f774245e3141b2-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/590c31c586f774245e3141b2-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/590c31c586f774245e3141b2-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/590c31c586f774245e3141b2-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 5,
+            "quantity": 5
+        }
+    ],
+    "stationLevelRequirements": [
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fc0654e76006657e0ab-2-3",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d473c1e081959000e530190",
+                "name": "Vents"
+            },
+            "level": 1
+        },
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fc0654e76006657e0ab-2-5",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d484fc0654e76006657e0ab",
+                "name": "Stash"
+            },
+            "level": 1
+        }
+    ],
+    "skillRequirements": [],
+    "traderRequirements": [],
+    "crafts": []
+}

@@ -1,0 +1,369 @@
+{
+    "__typename": "HideoutStationLevel",
+    "id": "5d484fdf654e7600691aadf8-1",
+    "level": 1,
+    "description": "If the generator is the heart of the Hideout, then the intelligence center is its brain. For now, this is just an old table and chair for analyzing various information that can help you escape from Tarkov.",
+    "constructionTime": 0,
+    "itemRequirements": [
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fdf654e7600691aadf8-1-2",
+            "item": {
+                "__typename": "Item",
+                "id": "5c12613b86f7743bbe2c3f76",
+                "shortName": "Intelligence",
+                "name": "Intelligence folder",
+                "link": "https://tarkov.dev/item/intelligence-folder",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Intelligence_folder",
+                "image512pxLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 1,
+            "quantity": 1
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fdf654e7600691aadf8-1-3",
+            "item": {
+                "__typename": "Item",
+                "id": "62a0a124de7ac81993580542",
+                "shortName": "Maps",
+                "name": "Topographic survey maps",
+                "link": "https://tarkov.dev/item/topographic-survey-maps",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Topographic_survey_maps",
+                "image512pxLink": "https://assets.tarkov.dev/62a0a124de7ac81993580542-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/62a0a124de7ac81993580542-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/62a0a124de7ac81993580542-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/62a0a124de7ac81993580542-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/62a0a124de7ac81993580542-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 1,
+            "quantity": 1
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fdf654e7600691aadf8-1-4",
+            "item": {
+                "__typename": "Item",
+                "id": "574eb85c245977648157eec3",
+                "shortName": "Factory",
+                "name": "Factory plan map",
+                "link": "https://tarkov.dev/item/factory-plan-map",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Factory_plan_map",
+                "image512pxLink": "https://assets.tarkov.dev/574eb85c245977648157eec3-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/574eb85c245977648157eec3-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/574eb85c245977648157eec3-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/574eb85c245977648157eec3-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/574eb85c245977648157eec3-8x.webp",
+                "backgroundColor": "orange"
+            },
+            "count": 1,
+            "quantity": 1
+        }
+    ],
+    "stationLevelRequirements": [
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fdf654e7600691aadf8-1-0",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d484fb3654e7600681d9314",
+                "name": "Security"
+            },
+            "level": 1
+        },
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fdf654e7600691aadf8-1-1",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d473c1e081959000e530190",
+                "name": "Vents"
+            },
+            "level": 1
+        }
+    ],
+    "skillRequirements": [],
+    "traderRequirements": [],
+    "crafts": [
+        {
+            "__typename": "Craft",
+            "id": "67da01179cbeb8d6f4011961",
+            "duration": 14400,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590c2e1186f77425357b6124",
+                        "shortName": "Toolset",
+                        "name": "Toolset",
+                        "link": "https://tarkov.dev/item/toolset",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Toolset",
+                        "image512pxLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d4042a986f7743185265463",
+                        "shortName": "L&F scdr.",
+                        "name": "Flat screwdriver (Long)",
+                        "link": "https://tarkov.dev/item/flat-screwdriver-long",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Flat_screwdriver_(Long)",
+                        "image512pxLink": "https://assets.tarkov.dev/5d4042a986f7743185265463-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d4042a986f7743185265463-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d4042a986f7743185265463-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d4042a986f7743185265463-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d4042a986f7743185265463-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590a391c86f774385a33c404",
+                        "shortName": "Magnet",
+                        "name": "Magnet",
+                        "link": "https://tarkov.dev/item/magnet",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Magnet",
+                        "image512pxLink": "https://assets.tarkov.dev/590a391c86f774385a33c404-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590a391c86f774385a33c404-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590a391c86f774385a33c404-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590a391c86f774385a33c404-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590a391c86f774385a33c404-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 3,
+                    "quantity": 3
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "6389c70ca33d8c4cdf4932c6",
+                        "shortName": "EC",
+                        "name": "Electronic components",
+                        "link": "https://tarkov.dev/item/electronic-components",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Electronic_components",
+                        "image512pxLink": "https://assets.tarkov.dev/6389c70ca33d8c4cdf4932c6-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/6389c70ca33d8c4cdf4932c6-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/6389c70ca33d8c4cdf4932c6-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/6389c70ca33d8c4cdf4932c6-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/6389c70ca33d8c4cdf4932c6-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590a3b0486f7743954552bdb",
+                        "shortName": "PCB",
+                        "name": "Printed circuit board",
+                        "link": "https://tarkov.dev/item/printed-circuit-board",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Printed_circuit_board",
+                        "image512pxLink": "https://assets.tarkov.dev/590a3b0486f7743954552bdb-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590a3b0486f7743954552bdb-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590a3b0486f7743954552bdb-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590a3b0486f7743954552bdb-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590a3b0486f7743954552bdb-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "61bf7c024770ee6f9c6b8b53",
+                        "shortName": "SMT",
+                        "name": "Secure magnetic tape cassette",
+                        "link": "https://tarkov.dev/item/secure-magnetic-tape-cassette",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_magnetic_tape_cassette",
+                        "image512pxLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "686c17583cf79421d70b007e",
+            "duration": 600,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "6889e4cd3ff7e9cfbc0c507c",
+                        "shortName": "Data",
+                        "name": "Thumb drive with military data",
+                        "link": "https://tarkov.dev/item/thumb-drive-with-military-data",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Thumb_drive_with_military_data",
+                        "image512pxLink": "https://assets.tarkov.dev/6889e4cd3ff7e9cfbc0c507c-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/6889e4cd3ff7e9cfbc0c507c-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/6889e4cd3ff7e9cfbc0c507c-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/6889e4cd3ff7e9cfbc0c507c-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/6889e4cd3ff7e9cfbc0c507c-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "68666887df54e1190902df57",
+                        "shortName": "Decryption",
+                        "name": "Decrypted intelligence folder",
+                        "link": "https://tarkov.dev/item/decrypted-intelligence-folder",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Decrypted_intelligence_folder",
+                        "image512pxLink": "https://assets.tarkov.dev/68666887df54e1190902df57-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/68666887df54e1190902df57-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/68666887df54e1190902df57-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/68666887df54e1190902df57-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/68666887df54e1190902df57-8x.webp",
+                        "backgroundColor": "yellow"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "67da000f1556838cf90d1716",
+            "duration": 10800,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590c2e1186f77425357b6124",
+                        "shortName": "Toolset",
+                        "name": "Toolset",
+                        "link": "https://tarkov.dev/item/toolset",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Toolset",
+                        "image512pxLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d4042a986f7743185265463",
+                        "shortName": "L&F scdr.",
+                        "name": "Flat screwdriver (Long)",
+                        "link": "https://tarkov.dev/item/flat-screwdriver-long",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Flat_screwdriver_(Long)",
+                        "image512pxLink": "https://assets.tarkov.dev/5d4042a986f7743185265463-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d4042a986f7743185265463-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d4042a986f7743185265463-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d4042a986f7743185265463-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d4042a986f7743185265463-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590a386e86f77429692b27ab",
+                        "shortName": "HDD",
+                        "name": "Damaged hard drive",
+                        "link": "https://tarkov.dev/item/damaged-hard-drive",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Damaged_hard_drive",
+                        "image512pxLink": "https://assets.tarkov.dev/590a386e86f77429692b27ab-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590a386e86f77429692b27ab-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590a386e86f77429692b27ab-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590a386e86f77429692b27ab-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590a386e86f77429692b27ab-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 3,
+                    "quantity": 3
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590a391c86f774385a33c404",
+                        "shortName": "Magnet",
+                        "name": "Magnet",
+                        "link": "https://tarkov.dev/item/magnet",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Magnet",
+                        "image512pxLink": "https://assets.tarkov.dev/590a391c86f774385a33c404-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590a391c86f774385a33c404-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590a391c86f774385a33c404-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590a391c86f774385a33c404-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590a391c86f774385a33c404-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 2,
+                    "quantity": 2
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590c37d286f77443be3d7827",
+                        "shortName": "SAS",
+                        "name": "SAS drive",
+                        "link": "https://tarkov.dev/item/sas-drive",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SAS_drive",
+                        "image512pxLink": "https://assets.tarkov.dev/590c37d286f77443be3d7827-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590c37d286f77443be3d7827-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590c37d286f77443be3d7827-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590c37d286f77443be3d7827-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590c37d286f77443be3d7827-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ]
+        }
+    ]
+}

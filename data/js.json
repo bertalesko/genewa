@@ -1,0 +1,624 @@
+{
+    "__typename": "HideoutStationLevel",
+    "id": "5d484fd1654e76006732bf2e-3",
+    "level": 3,
+    "description": "A full-fledged kitchen with a comfortable stove, an improved sink, an electric kettle, a microwave and everything necessary for fast and high-quality food cooking outside raids. Can’t violate the diet!",
+    "constructionTime": 50400,
+    "itemRequirements": [
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fd1654e76006732bf2e-3-3",
+            "item": {
+                "__typename": "Item",
+                "id": "5449016a4bdc2d6f028b456f",
+                "shortName": "RUB",
+                "name": "Roubles",
+                "link": "https://tarkov.dev/item/roubles",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Roubles",
+                "image512pxLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-8x.webp",
+                "backgroundColor": "green"
+            },
+            "count": 250000,
+            "quantity": 250000
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fd1654e76006732bf2e-3-6",
+            "item": {
+                "__typename": "Item",
+                "id": "5af0484c86f7740f02001f7f",
+                "shortName": "Majaica",
+                "name": "Can of Majaica coffee beans",
+                "link": "https://tarkov.dev/item/can-of-majaica-coffee-beans",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Can_of_Majaica_coffee_beans",
+                "image512pxLink": "https://assets.tarkov.dev/5af0484c86f7740f02001f7f-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/5af0484c86f7740f02001f7f-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/5af0484c86f7740f02001f7f-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/5af0484c86f7740f02001f7f-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/5af0484c86f7740f02001f7f-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 6,
+            "quantity": 6
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fd1654e76006732bf2e-3-7",
+            "item": {
+                "__typename": "Item",
+                "id": "59e35abd86f7741778269d82",
+                "shortName": "Sodium",
+                "name": "Pack of sodium bicarbonate",
+                "link": "https://tarkov.dev/item/pack-of-sodium-bicarbonate",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pack_of_sodium_bicarbonate",
+                "image512pxLink": "https://assets.tarkov.dev/59e35abd86f7741778269d82-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/59e35abd86f7741778269d82-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/59e35abd86f7741778269d82-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/59e35abd86f7741778269d82-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/59e35abd86f7741778269d82-8x.webp",
+                "backgroundColor": "grey"
+            },
+            "count": 6,
+            "quantity": 6
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fd1654e76006732bf2e-3-8",
+            "item": {
+                "__typename": "Item",
+                "id": "5e2af00086f7746d3f3c33f7",
+                "shortName": "DCleaner",
+                "name": "Smoked Chimney drain cleaner",
+                "link": "https://tarkov.dev/item/smoked-chimney-drain-cleaner",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Smoked_Chimney_drain_cleaner",
+                "image512pxLink": "https://assets.tarkov.dev/5e2af00086f7746d3f3c33f7-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/5e2af00086f7746d3f3c33f7-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/5e2af00086f7746d3f3c33f7-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/5e2af00086f7746d3f3c33f7-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/5e2af00086f7746d3f3c33f7-8x.webp",
+                "backgroundColor": "grey"
+            },
+            "count": 4,
+            "quantity": 4
+        }
+    ],
+    "stationLevelRequirements": [
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fd1654e76006732bf2e-3-0",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d3b396e33c48f02b81cd9f3",
+                "name": "Generator"
+            },
+            "level": 2
+        },
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fd1654e76006732bf2e-3-1",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d484fba654e7600691aadf7",
+                "name": "Lavatory"
+            },
+            "level": 3
+        },
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fd1654e76006732bf2e-3-2",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d484fc0654e76006657e0ab",
+                "name": "Stash"
+            },
+            "level": 2
+        },
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fd1654e76006732bf2e-3-5",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d484fd1654e76006732bf2e",
+                "name": "Nutrition Unit"
+            },
+            "level": 2
+        }
+    ],
+    "skillRequirements": [
+        {
+            "__typename": "RequirementSkill",
+            "id": "5d484fd1654e76006732bf2e-3-4",
+            "name": "Metabolism",
+            "level": 3
+        }
+    ],
+    "traderRequirements": [],
+    "crafts": [
+        {
+            "__typename": "Craft",
+            "id": "62a11658650cc35fa94e009a",
+            "duration": 36000,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "57347d3d245977448f7b7f61",
+                        "shortName": "Croutons",
+                        "name": "Rye croutons",
+                        "link": "https://tarkov.dev/item/rye-croutons",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Rye_croutons",
+                        "image512pxLink": "https://assets.tarkov.dev/57347d3d245977448f7b7f61-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/57347d3d245977448f7b7f61-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/57347d3d245977448f7b7f61-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/57347d3d245977448f7b7f61-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/57347d3d245977448f7b7f61-8x.webp",
+                        "backgroundColor": "default"
+                    },
+                    "count": 5,
+                    "quantity": 5
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5e8f3423fd7471236e6e3b64",
+                        "shortName": "Kvass",
+                        "name": "Bottle of Norvinsky Yadreniy premium kvass (0.6L)",
+                        "link": "https://tarkov.dev/item/bottle-of-norvinsky-yadreniy-premium-kvass-06l",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_Norvinsky_Yadreniy_premium_kvass_(0.6L)",
+                        "image512pxLink": "https://assets.tarkov.dev/5e8f3423fd7471236e6e3b64-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5e8f3423fd7471236e6e3b64-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5e8f3423fd7471236e6e3b64-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5e8f3423fd7471236e6e3b64-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5e8f3423fd7471236e6e3b64-8x.webp",
+                        "backgroundColor": "default"
+                    },
+                    "count": 3,
+                    "quantity": 3
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d1b33a686f7742523398398",
+                        "shortName": "Superwater",
+                        "name": "Canister with purified water",
+                        "link": "https://tarkov.dev/item/canister-with-purified-water",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Canister_with_purified_water",
+                        "image512pxLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "62a09f32621468534a797acb",
+                        "shortName": "Pevko",
+                        "name": "Bottle of Pevko Light beer",
+                        "link": "https://tarkov.dev/item/bottle-of-pevko-light-beer",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_Pevko_Light_beer",
+                        "image512pxLink": "https://assets.tarkov.dev/62a09f32621468534a797acb-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/62a09f32621468534a797acb-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/62a09f32621468534a797acb-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/62a09f32621468534a797acb-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/62a09f32621468534a797acb-8x.webp",
+                        "backgroundColor": "default"
+                    },
+                    "count": 10,
+                    "quantity": 10
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "600ab8e3e4022c380a726088",
+            "duration": 6400,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5448fee04bdc2dbc018b4567",
+                        "shortName": "Water",
+                        "name": "Bottle of water (0.6L)",
+                        "link": "https://tarkov.dev/item/bottle-of-water-06l",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_water_(0.6L)",
+                        "image512pxLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-8x.webp",
+                        "backgroundColor": "default"
+                    },
+                    "count": 2,
+                    "quantity": 2
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d40407c86f774318526545a",
+                        "shortName": "Vodka",
+                        "name": "Bottle of Tarkovskaya vodka",
+                        "link": "https://tarkov.dev/item/bottle-of-tarkovskaya-vodka",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_Tarkovskaya_vodka",
+                        "image512pxLink": "https://assets.tarkov.dev/5d40407c86f774318526545a-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d40407c86f774318526545a-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d40407c86f774318526545a-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d40407c86f774318526545a-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d40407c86f774318526545a-8x.webp",
+                        "backgroundColor": "default"
+                    },
+                    "count": 2,
+                    "quantity": 2
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "57505f6224597709a92585a9",
+                        "shortName": "Alyonka",
+                        "name": "Alyonka chocolate bar",
+                        "link": "https://tarkov.dev/item/alyonka-chocolate-bar",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Alyonka_chocolate_bar",
+                        "image512pxLink": "https://assets.tarkov.dev/57505f6224597709a92585a9-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/57505f6224597709a92585a9-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/57505f6224597709a92585a9-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/57505f6224597709a92585a9-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/57505f6224597709a92585a9-8x.webp",
+                        "backgroundColor": "default"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5bc9be8fd4351e00334cae6e",
+                        "shortName": "42",
+                        "name": "42 Signature Blend English Tea",
+                        "link": "https://tarkov.dev/item/42-signature-blend-english-tea",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/42_Signature_Blend_English_Tea",
+                        "image512pxLink": "https://assets.tarkov.dev/5bc9be8fd4351e00334cae6e-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5bc9be8fd4351e00334cae6e-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5bc9be8fd4351e00334cae6e-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5bc9be8fd4351e00334cae6e-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5bc9be8fd4351e00334cae6e-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d1b385e86f774252167b98a",
+                        "shortName": "WFilter",
+                        "name": "Water filter",
+                        "link": "https://tarkov.dev/item/water-filter",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Water_filter",
+                        "image512pxLink": "https://assets.tarkov.dev/5d1b385e86f774252167b98a-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d1b385e86f774252167b98a-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d1b385e86f774252167b98a-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d1b385e86f774252167b98a-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d1b385e86f774252167b98a-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d403f9186f7743cac3f229b",
+                        "shortName": "Whiskey",
+                        "name": "Bottle of Dan Jackiel whiskey",
+                        "link": "https://tarkov.dev/item/bottle-of-dan-jackiel-whiskey",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_Dan_Jackiel_whiskey",
+                        "image512pxLink": "https://assets.tarkov.dev/5d403f9186f7743cac3f229b-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d403f9186f7743cac3f229b-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d403f9186f7743cac3f229b-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d403f9186f7743cac3f229b-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d403f9186f7743cac3f229b-8x.webp",
+                        "backgroundColor": "default"
+                    },
+                    "count": 3,
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "5dc1f4d9e078d303d91b44c7",
+            "duration": 6650,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d1b33a686f7742523398398",
+                        "shortName": "Superwater",
+                        "name": "Canister with purified water",
+                        "link": "https://tarkov.dev/item/canister-with-purified-water",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Canister_with_purified_water",
+                        "image512pxLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d1b39a386f774252339976f",
+                        "shortName": "Tube",
+                        "name": "Silicone tube",
+                        "link": "https://tarkov.dev/item/silicone-tube",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Silicone_tube",
+                        "image512pxLink": "https://assets.tarkov.dev/5d1b39a386f774252339976f-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d1b39a386f774252339976f-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d1b39a386f774252339976f-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d1b39a386f774252339976f-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d1b39a386f774252339976f-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5448fee04bdc2dbc018b4567",
+                        "shortName": "Water",
+                        "name": "Bottle of water (0.6L)",
+                        "link": "https://tarkov.dev/item/bottle-of-water-06l",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_water_(0.6L)",
+                        "image512pxLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-8x.webp",
+                        "backgroundColor": "default"
+                    },
+                    "count": 8,
+                    "quantity": 8
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "5dc1f634ee5f2440a9272dc7",
+            "duration": 5750,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d1b376e86f774252519444e",
+                        "shortName": "Moonshine",
+                        "name": "Bottle of Fierce Hatchling moonshine",
+                        "link": "https://tarkov.dev/item/bottle-of-fierce-hatchling-moonshine",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_Fierce_Hatchling_moonshine",
+                        "image512pxLink": "https://assets.tarkov.dev/5d1b376e86f774252519444e-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d1b376e86f774252519444e-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d1b376e86f774252519444e-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d1b376e86f774252519444e-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d1b376e86f774252519444e-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5448fee04bdc2dbc018b4567",
+                        "shortName": "Water",
+                        "name": "Bottle of water (0.6L)",
+                        "link": "https://tarkov.dev/item/bottle-of-water-06l",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_water_(0.6L)",
+                        "image512pxLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5448fee04bdc2dbc018b4567-8x.webp",
+                        "backgroundColor": "default"
+                    },
+                    "count": 5,
+                    "quantity": 5
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d40407c86f774318526545a",
+                        "shortName": "Vodka",
+                        "name": "Bottle of Tarkovskaya vodka",
+                        "link": "https://tarkov.dev/item/bottle-of-tarkovskaya-vodka",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_Tarkovskaya_vodka",
+                        "image512pxLink": "https://assets.tarkov.dev/5d40407c86f774318526545a-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d40407c86f774318526545a-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d40407c86f774318526545a-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d40407c86f774318526545a-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d40407c86f774318526545a-8x.webp",
+                        "backgroundColor": "default"
+                    },
+                    "count": 10,
+                    "quantity": 10
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "5f241246232409155b66b809",
+            "duration": 43200,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d1b33a686f7742523398398",
+                        "shortName": "Superwater",
+                        "name": "Canister with purified water",
+                        "link": "https://tarkov.dev/item/canister-with-purified-water",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Canister_with_purified_water",
+                        "image512pxLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d1b33a686f7742523398398-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "59e3577886f774176a362503",
+                        "shortName": "Sugar",
+                        "name": "Pack of sugar",
+                        "link": "https://tarkov.dev/item/pack-of-sugar",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pack_of_sugar",
+                        "image512pxLink": "https://assets.tarkov.dev/59e3577886f774176a362503-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/59e3577886f774176a362503-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/59e3577886f774176a362503-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/59e3577886f774176a362503-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/59e3577886f774176a362503-8x.webp",
+                        "backgroundColor": "default"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5af0484c86f7740f02001f7f",
+                        "shortName": "Majaica",
+                        "name": "Can of Majaica coffee beans",
+                        "link": "https://tarkov.dev/item/can-of-majaica-coffee-beans",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Can_of_Majaica_coffee_beans",
+                        "image512pxLink": "https://assets.tarkov.dev/5af0484c86f7740f02001f7f-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5af0484c86f7740f02001f7f-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5af0484c86f7740f02001f7f-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5af0484c86f7740f02001f7f-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5af0484c86f7740f02001f7f-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5bc9be8fd4351e00334cae6e",
+                        "shortName": "42",
+                        "name": "42 Signature Blend English Tea",
+                        "link": "https://tarkov.dev/item/42-signature-blend-english-tea",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/42_Signature_Blend_English_Tea",
+                        "image512pxLink": "https://assets.tarkov.dev/5bc9be8fd4351e00334cae6e-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5bc9be8fd4351e00334cae6e-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5bc9be8fd4351e00334cae6e-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5bc9be8fd4351e00334cae6e-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5bc9be8fd4351e00334cae6e-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d1b385e86f774252167b98a",
+                        "shortName": "WFilter",
+                        "name": "Water filter",
+                        "link": "https://tarkov.dev/item/water-filter",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Water_filter",
+                        "image512pxLink": "https://assets.tarkov.dev/5d1b385e86f774252167b98a-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d1b385e86f774252167b98a-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d1b385e86f774252167b98a-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d1b385e86f774252167b98a-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d1b385e86f774252167b98a-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "62a09e73af34e73a266d932a",
+                        "shortName": "BakeEzy",
+                        "name": "BakeEzy cook book",
+                        "link": "https://tarkov.dev/item/bakeezy-cook-book",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/BakeEzy_cook_book",
+                        "image512pxLink": "https://assets.tarkov.dev/62a09e73af34e73a266d932a-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/62a09e73af34e73a266d932a-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/62a09e73af34e73a266d932a-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/62a09e73af34e73a266d932a-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/62a09e73af34e73a266d932a-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5751496424597720a27126da",
+                        "shortName": "Hot Rod",
+                        "name": "Can of Hot Rod energy drink",
+                        "link": "https://tarkov.dev/item/can-of-hot-rod-energy-drink",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Can_of_Hot_Rod_energy_drink",
+                        "image512pxLink": "https://assets.tarkov.dev/5751496424597720a27126da-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5751496424597720a27126da-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5751496424597720a27126da-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5751496424597720a27126da-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5751496424597720a27126da-8x.webp",
+                        "backgroundColor": "default"
+                    },
+                    "count": 20,
+                    "quantity": 20
+                }
+            ]
+        }
+    ]
+}

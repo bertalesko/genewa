@@ -1,0 +1,133 @@
+{
+    "__typename": "HideoutStation",
+    "id": "5d494a315b56502f18c98a0a",
+    "name": "Air Filtering Unit",
+    "normalizedName": "air-filtering-unit",
+    "levels": [
+        {
+            "__typename": "HideoutStationLevel",
+            "id": "5d494a315b56502f18c98a0a-1",
+            "level": 1,
+            "description": "Air filtration system, connected to the common ventilation system. It provides the air which is as cleanest from harmful impurities as possible.",
+            "constructionTime": 172800,
+            "itemRequirements": [
+                {
+                    "__typename": "RequirementItem",
+                    "id": "5d494a315b56502f18c98a0a-1-2",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5696686a4bdc2da3298b456a",
+                        "shortName": "USD",
+                        "name": "Dollars",
+                        "link": "https://tarkov.dev/item/dollars",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Dollars",
+                        "image512pxLink": "https://assets.tarkov.dev/5696686a4bdc2da3298b456a-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5696686a4bdc2da3298b456a-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5696686a4bdc2da3298b456a-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5696686a4bdc2da3298b456a-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5696686a4bdc2da3298b456a-8x.webp",
+                        "backgroundColor": "green"
+                    },
+                    "count": 50000,
+                    "quantity": 50000
+                },
+                {
+                    "__typename": "RequirementItem",
+                    "id": "5d494a315b56502f18c98a0a-1-4",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d0378d486f77420421a5ff4",
+                        "shortName": "PFilter",
+                        "name": "Military power filter",
+                        "link": "https://tarkov.dev/item/military-power-filter",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Military_power_filter",
+                        "image512pxLink": "https://assets.tarkov.dev/5d0378d486f77420421a5ff4-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d0378d486f77420421a5ff4-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d0378d486f77420421a5ff4-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d0378d486f77420421a5ff4-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d0378d486f77420421a5ff4-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 6,
+                    "quantity": 6
+                },
+                {
+                    "__typename": "RequirementItem",
+                    "id": "5d494a315b56502f18c98a0a-1-5",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590c595c86f7747884343ad7",
+                        "shortName": "Filter",
+                        "name": "Gas mask air filter",
+                        "link": "https://tarkov.dev/item/gas-mask-air-filter",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gas_mask_air_filter",
+                        "image512pxLink": "https://assets.tarkov.dev/590c595c86f7747884343ad7-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590c595c86f7747884343ad7-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590c595c86f7747884343ad7-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590c595c86f7747884343ad7-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590c595c86f7747884343ad7-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 10,
+                    "quantity": 10
+                },
+                {
+                    "__typename": "RequirementItem",
+                    "id": "5d494a315b56502f18c98a0a-1-6",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "619cbf476b8a1b37a54eebf8",
+                        "shortName": "MTube",
+                        "name": "Military corrugated tube",
+                        "link": "https://tarkov.dev/item/military-corrugated-tube",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Military_corrugated_tube",
+                        "image512pxLink": "https://assets.tarkov.dev/619cbf476b8a1b37a54eebf8-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/619cbf476b8a1b37a54eebf8-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/619cbf476b8a1b37a54eebf8-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/619cbf476b8a1b37a54eebf8-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/619cbf476b8a1b37a54eebf8-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 6,
+                    "quantity": 6
+                }
+            ],
+            "stationLevelRequirements": [
+                {
+                    "__typename": "RequirementHideoutStationLevel",
+                    "id": "5d494a315b56502f18c98a0a-1-0",
+                    "station": {
+                        "__typename": "HideoutStation",
+                        "id": "5d3b396e33c48f02b81cd9f3",
+                        "name": "Generator"
+                    },
+                    "level": 3
+                },
+                {
+                    "__typename": "RequirementHideoutStationLevel",
+                    "id": "5d494a315b56502f18c98a0a-1-1",
+                    "station": {
+                        "__typename": "HideoutStation",
+                        "id": "5d473c1e081959000e530190",
+                        "name": "Vents"
+                    },
+                    "level": 3
+                }
+            ],
+            "skillRequirements": [],
+            "traderRequirements": [
+                {
+                    "__typename": "RequirementTrader",
+                    "id": "5d494a315b56502f18c98a0a-1-3",
+                    "trader": {
+                        "__typename": "Trader",
+                        "id": "58330581ace78e27b8b10cee",
+                        "name": "Skier"
+                    },
+                    "level": 3
+                }
+            ],
+            "crafts": []
+        }
+    ]
+}

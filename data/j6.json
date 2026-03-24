@@ -1,0 +1,53 @@
+{
+    "__typename": "HideoutStationLevel",
+    "id": "5d388e97081959000a123acf-1",
+    "level": 1,
+    "description": "A simple barrel with firewood to maintain heat. A very basic option for heating. Dangerous because of toxic carbon monoxide.",
+    "constructionTime": 0,
+    "itemRequirements": [
+        {
+            "__typename": "RequirementItem",
+            "id": "5d388e97081959000a123acf-1-0",
+            "item": {
+                "__typename": "Item",
+                "id": "5449016a4bdc2d6f028b456f",
+                "shortName": "RUB",
+                "name": "Roubles",
+                "link": "https://tarkov.dev/item/roubles",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Roubles",
+                "image512pxLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-8x.webp",
+                "backgroundColor": "green"
+            },
+            "count": 25000,
+            "quantity": 25000
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d388e97081959000a123acf-1-1",
+            "item": {
+                "__typename": "Item",
+                "id": "57347b8b24597737dd42e192",
+                "shortName": "Matches",
+                "name": "Classic matches",
+                "link": "https://tarkov.dev/item/classic-matches",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Classic_matches",
+                "image512pxLink": "https://assets.tarkov.dev/57347b8b24597737dd42e192-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/57347b8b24597737dd42e192-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/57347b8b24597737dd42e192-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/57347b8b24597737dd42e192-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/57347b8b24597737dd42e192-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 2,
+            "quantity": 2
+        }
+    ],
+    "stationLevelRequirements": [],
+    "skillRequirements": [],
+    "traderRequirements": [],
+    "crafts": []
+}

@@ -1,0 +1,135 @@
+{
+    "__typename": "HideoutStationLevel",
+    "id": "5d388e97081959000a123acf-3",
+    "level": 3,
+    "description": "Equips the entire Hideout with additional electric heaters. Now, together with the potbelly stove, you won't be afraid of any cold.",
+    "constructionTime": 28800,
+    "itemRequirements": [
+        {
+            "__typename": "RequirementItem",
+            "id": "5d388e97081959000a123acf-3-0",
+            "item": {
+                "__typename": "Item",
+                "id": "5d1c774f86f7746d6620f8db",
+                "shortName": "Helix",
+                "name": "Radiator helix",
+                "link": "https://tarkov.dev/item/radiator-helix",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Radiator_helix",
+                "image512pxLink": "https://assets.tarkov.dev/5d1c774f86f7746d6620f8db-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/5d1c774f86f7746d6620f8db-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/5d1c774f86f7746d6620f8db-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/5d1c774f86f7746d6620f8db-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/5d1c774f86f7746d6620f8db-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 16,
+            "quantity": 16
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d388e97081959000a123acf-3-1",
+            "item": {
+                "__typename": "Item",
+                "id": "5c06779c86f77426e00dd782",
+                "shortName": "Wires",
+                "name": "Bundle of wires",
+                "link": "https://tarkov.dev/item/bundle-of-wires",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bundle_of_wires",
+                "image512pxLink": "https://assets.tarkov.dev/5c06779c86f77426e00dd782-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/5c06779c86f77426e00dd782-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/5c06779c86f77426e00dd782-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/5c06779c86f77426e00dd782-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/5c06779c86f77426e00dd782-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 16,
+            "quantity": 16
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d388e97081959000a123acf-3-6",
+            "item": {
+                "__typename": "Item",
+                "id": "5d1b313086f77425227d1678",
+                "shortName": "Relay",
+                "name": "Phase control relay",
+                "link": "https://tarkov.dev/item/phase-control-relay",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Phase_control_relay",
+                "image512pxLink": "https://assets.tarkov.dev/5d1b313086f77425227d1678-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/5d1b313086f77425227d1678-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/5d1b313086f77425227d1678-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/5d1b313086f77425227d1678-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/5d1b313086f77425227d1678-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 8,
+            "quantity": 8
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d388e97081959000a123acf-3-7",
+            "item": {
+                "__typename": "Item",
+                "id": "619cbf476b8a1b37a54eebf8",
+                "shortName": "MTube",
+                "name": "Military corrugated tube",
+                "link": "https://tarkov.dev/item/military-corrugated-tube",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Military_corrugated_tube",
+                "image512pxLink": "https://assets.tarkov.dev/619cbf476b8a1b37a54eebf8-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/619cbf476b8a1b37a54eebf8-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/619cbf476b8a1b37a54eebf8-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/619cbf476b8a1b37a54eebf8-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/619cbf476b8a1b37a54eebf8-8x.webp",
+                "backgroundColor": "violet"
+            },
+            "count": 4,
+            "quantity": 4
+        }
+    ],
+    "stationLevelRequirements": [
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d388e97081959000a123acf-3-2",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d3b396e33c48f02b81cd9f3",
+                "name": "Generator"
+            },
+            "level": 2
+        },
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d388e97081959000a123acf-3-3",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d484fda654e7600681d9315",
+                "name": "Workbench"
+            },
+            "level": 2
+        },
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d388e97081959000a123acf-3-5",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d388e97081959000a123acf",
+                "name": "Heating"
+            },
+            "level": 2
+        }
+    ],
+    "skillRequirements": [],
+    "traderRequirements": [
+        {
+            "__typename": "RequirementTrader",
+            "id": "5d388e97081959000a123acf-3-4",
+            "trader": {
+                "__typename": "Trader",
+                "id": "5ac3b934156ae10c4430e83c",
+                "name": "Ragman"
+            },
+            "level": 2
+        }
+    ],
+    "crafts": []
+}

@@ -1,0 +1,87 @@
+0,Roubles
+1,Euros
+2,Spark plug
+3,Dry fuel
+4,Hunting matches
+5,Crickent lighter
+6,Radiator helix
+7,Bundle of wires
+8,Phase control relay
+9,Military corrugated tube
+10,Toolset
+11,Electric drill
+12,Metal cutting scissors
+13,Screw nuts
+14,Bolts
+15,WD-40 (100ml)
+16,Insulating tape
+17,Light bulb
+18,Energy-saving lamp
+19,Capacitors
+20,Factory plan map
+21,Intelligence folder
+22,Topographic survey map
+23,Duct tape
+24,Classic matches
+25,Golden rooster figurine
+26,Lucky Scav Junk box
+27,Bottle of Fierce Hatchling moonshine
+28,Roler Submariner gold wrist watch
+29,Golden neck chain
+30,Gold skull ring
+31,Bronze lion figurine
+32,Construction measuring tape
+33,Pliers Elite
+34,TP-200 TNT brick
+35,NIXXOR lens
+36,Working LCD
+37,SSD drive
+38,Metal spare parts
+39,Pack of screws
+40,Power cord
+41,Leatherman Multitool
+42,Tech manual
+43,Phased array element
+44,Advanced current converter
+45,Military cable
+46,Military power filter
+47,Pack of nails
+48,Ratchet wrench
+49,Shustrilo sealing foam
+50,Hand drill
+51,Electric motor
+52,Tube of Poxeram cold welding
+53,WI-FI Camera
+54,Printed circuit board
+55,GreenBat lithium battery
+56,Pack of nails (duplicate-name normalized)  /* kept for clarity, see note */
+57,Tool parts / Weapon parts
+58,Set of files "Master"
+59,Power cord (duplicate normalized)
+60,Pack of screws (duplicate normalized)
+61,Wire (already as Bundle of wires)
+62,SSD (duplicate normalized)
+63,Water filter
+64,Corrugated hose
+65,Canister with purified water
+66,Bottle of water (0.6L)
+67,Screw nuts (dup normalized)
+68,Electric motor (dup normalized)
+69,Electrical component: Magnet
+70,DVD drive
+71,Crate / Lucky items (generic)
+72,Spark plug (dup normalized)
+73,Electronics: Capacitors (dup)
+74,Cordura polyamide fabric
+75,Body armor repair kit
+76,Fleece fabric
+77,Energy-saving lamp (dup)
+78,Set of files Master (dup)
+79,Wire bundle (dup)
+80,Tool parts (dup)
+81,Insulating tape (dup)
+82,WiFi camera (dup)
+83,Roler watch (dup)
+84,Shustrilo foam (dup)
+85,Military filter (dup)
+86,Screw nuts (dup)

@@ -1,0 +1,145 @@
+{
+    "__typename": "HideoutStationLevel",
+    "id": "5d484fc0654e76006657e0ab-3",
+    "level": 3,
+    "description": "Large stash (10x50)",
+    "constructionTime": 172800,
+    "itemRequirements": [
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fc0654e76006657e0ab-3-2",
+            "item": {
+                "__typename": "Item",
+                "id": "59e35de086f7741778269d84",
+                "shortName": "Drill",
+                "name": "Electric drill",
+                "link": "https://tarkov.dev/item/electric-drill",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Electric_drill",
+                "image512pxLink": "https://assets.tarkov.dev/59e35de086f7741778269d84-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/59e35de086f7741778269d84-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/59e35de086f7741778269d84-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/59e35de086f7741778269d84-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/59e35de086f7741778269d84-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 2,
+            "quantity": 2
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fc0654e76006657e0ab-3-3",
+            "item": {
+                "__typename": "Item",
+                "id": "59e35ef086f7741777737012",
+                "shortName": "Screws",
+                "name": "Pack of screws",
+                "link": "https://tarkov.dev/item/pack-of-screws",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pack_of_screws",
+                "image512pxLink": "https://assets.tarkov.dev/59e35ef086f7741777737012-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/59e35ef086f7741777737012-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/59e35ef086f7741777737012-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/59e35ef086f7741777737012-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/59e35ef086f7741777737012-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 15,
+            "quantity": 15
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fc0654e76006657e0ab-3-4",
+            "item": {
+                "__typename": "Item",
+                "id": "5449016a4bdc2d6f028b456f",
+                "shortName": "RUB",
+                "name": "Roubles",
+                "link": "https://tarkov.dev/item/roubles",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Roubles",
+                "image512pxLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/5449016a4bdc2d6f028b456f-8x.webp",
+                "backgroundColor": "green"
+            },
+            "count": 8500000,
+            "quantity": 8500000
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fc0654e76006657e0ab-3-8",
+            "item": {
+                "__typename": "Item",
+                "id": "590c31c586f774245e3141b2",
+                "shortName": "Nails",
+                "name": "Pack of nails",
+                "link": "https://tarkov.dev/item/pack-of-nails",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pack_of_nails",
+                "image512pxLink": "https://assets.tarkov.dev/590c31c586f774245e3141b2-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/590c31c586f774245e3141b2-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/590c31c586f774245e3141b2-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/590c31c586f774245e3141b2-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/590c31c586f774245e3141b2-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 7,
+            "quantity": 7
+        }
+    ],
+    "stationLevelRequirements": [
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fc0654e76006657e0ab-3-0",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d473c1e081959000e530190",
+                "name": "Vents"
+            },
+            "level": 2
+        },
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fc0654e76006657e0ab-3-1",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d388e97081959000a123acf",
+                "name": "Heating"
+            },
+            "level": 2
+        },
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fc0654e76006657e0ab-3-6",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d484fc0654e76006657e0ab",
+                "name": "Stash"
+            },
+            "level": 2
+        }
+    ],
+    "skillRequirements": [],
+    "traderRequirements": [
+        {
+            "__typename": "RequirementTrader",
+            "id": "5d484fc0654e76006657e0ab-3-5",
+            "trader": {
+                "__typename": "Trader",
+                "id": "54cb50c76803fa8b248b4571",
+                "name": "Prapor"
+            },
+            "level": 3
+        },
+        {
+            "__typename": "RequirementTrader",
+            "id": "5d484fc0654e76006657e0ab-3-7",
+            "trader": {
+                "__typename": "Trader",
+                "id": "5ac3b934156ae10c4430e83c",
+                "name": "Ragman"
+            },
+            "level": 3
+        }
+    ],
+    "crafts": []
+}

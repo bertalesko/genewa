@@ -1,0 +1,1307 @@
+{
+    "__typename": "HideoutStationLevel",
+    "id": "5d484fdf654e7600691aadf8-2",
+    "level": 2,
+    "description": "An advanced intelligence center equipped with a laptop, which has more working space due to an additional table. Thanks to Mechanic, it is connected to an isolated computer network, which remained intact after the EMP strike and isolation of Tarkov.",
+    "constructionTime": 21600,
+    "itemRequirements": [
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fdf654e7600691aadf8-2-0",
+            "item": {
+                "__typename": "Item",
+                "id": "5c12613b86f7743bbe2c3f76",
+                "shortName": "Intelligence",
+                "name": "Intelligence folder",
+                "link": "https://tarkov.dev/item/intelligence-folder",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Intelligence_folder",
+                "image512pxLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 6,
+            "quantity": 6
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fdf654e7600691aadf8-2-1",
+            "item": {
+                "__typename": "Item",
+                "id": "590c621186f774138d11ea29",
+                "shortName": "Flash drive",
+                "name": "Secure Flash drive",
+                "link": "https://tarkov.dev/item/secure-flash-drive",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_Flash_drive",
+                "image512pxLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 6,
+            "quantity": 6
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fdf654e7600691aadf8-2-2",
+            "item": {
+                "__typename": "Item",
+                "id": "59e36c6f86f774176c10a2a7",
+                "shortName": "Cord",
+                "name": "Power cord",
+                "link": "https://tarkov.dev/item/power-cord",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Power_cord",
+                "image512pxLink": "https://assets.tarkov.dev/59e36c6f86f774176c10a2a7-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/59e36c6f86f774176c10a2a7-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/59e36c6f86f774176c10a2a7-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/59e36c6f86f774176c10a2a7-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/59e36c6f86f774176c10a2a7-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 14,
+            "quantity": 14
+        },
+        {
+            "__typename": "RequirementItem",
+            "id": "5d484fdf654e7600691aadf8-2-3",
+            "item": {
+                "__typename": "Item",
+                "id": "590a386e86f77429692b27ab",
+                "shortName": "HDD",
+                "name": "Damaged hard drive",
+                "link": "https://tarkov.dev/item/damaged-hard-drive",
+                "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Damaged_hard_drive",
+                "image512pxLink": "https://assets.tarkov.dev/590a386e86f77429692b27ab-512.webp",
+                "gridImageLink": "https://assets.tarkov.dev/590a386e86f77429692b27ab-grid-image.webp",
+                "baseImageLink": "https://assets.tarkov.dev/590a386e86f77429692b27ab-base-image.webp",
+                "iconLink": "https://assets.tarkov.dev/590a386e86f77429692b27ab-icon.webp",
+                "image8xLink": "https://assets.tarkov.dev/590a386e86f77429692b27ab-8x.webp",
+                "backgroundColor": "blue"
+            },
+            "count": 8,
+            "quantity": 8
+        }
+    ],
+    "stationLevelRequirements": [
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fdf654e7600691aadf8-2-4",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d484fb3654e7600681d9314",
+                "name": "Security"
+            },
+            "level": 3
+        },
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fdf654e7600691aadf8-2-5",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d484fcd654e7668ec2ec322",
+                "name": "Medstation"
+            },
+            "level": 3
+        },
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fdf654e7600691aadf8-2-6",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d484fd1654e76006732bf2e",
+                "name": "Nutrition Unit"
+            },
+            "level": 3
+        },
+        {
+            "__typename": "RequirementHideoutStationLevel",
+            "id": "5d484fdf654e7600691aadf8-2-8",
+            "station": {
+                "__typename": "HideoutStation",
+                "id": "5d484fdf654e7600691aadf8",
+                "name": "Intelligence Center"
+            },
+            "level": 1
+        }
+    ],
+    "skillRequirements": [
+        {
+            "__typename": "RequirementSkill",
+            "id": "5d484fdf654e7600691aadf8-2-7",
+            "name": "Attention",
+            "level": 3
+        }
+    ],
+    "traderRequirements": [
+        {
+            "__typename": "RequirementTrader",
+            "id": "5d484fdf654e7600691aadf8-2-9",
+            "trader": {
+                "__typename": "Trader",
+                "id": "5a7c2eca46aef81a7ca2145d",
+                "name": "Mechanic"
+            },
+            "level": 2
+        }
+    ],
+    "crafts": [
+        {
+            "__typename": "Craft",
+            "id": "5ee4a093a297eb185236194f",
+            "duration": 192000,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c94bbff86f7747ee735c08f",
+                        "shortName": "Access",
+                        "name": "TerraGroup Labs access keycard",
+                        "link": "https://tarkov.dev/item/terragroup-labs-access-keycard",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_Labs_access_keycard",
+                        "image512pxLink": "https://assets.tarkov.dev/5c94bbff86f7747ee735c08f-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c94bbff86f7747ee735c08f-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c94bbff86f7747ee735c08f-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c94bbff86f7747ee735c08f-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c94bbff86f7747ee735c08f-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c05300686f7746dce784e5d",
+                        "shortName": "VPX",
+                        "name": "VPX Flash Storage Module",
+                        "link": "https://tarkov.dev/item/vpx-flash-storage-module",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPX_Flash_Storage_Module",
+                        "image512pxLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5ac78a9b86f7741cca0bbd8d",
+                        "shortName": "Jammer",
+                        "name": "Signal Jammer",
+                        "link": "https://tarkov.dev/item/signal-jammer",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Signal_Jammer",
+                        "image512pxLink": "https://assets.tarkov.dev/5ac78a9b86f7741cca0bbd8d-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5ac78a9b86f7741cca0bbd8d-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5ac78a9b86f7741cca0bbd8d-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5ac78a9b86f7741cca0bbd8d-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5ac78a9b86f7741cca0bbd8d-8x.webp",
+                        "backgroundColor": "orange"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "6389c92d52123d5dd17f8876",
+                        "shortName": "AEM",
+                        "name": "Advanced Electronic Materials textbook",
+                        "link": "https://tarkov.dev/item/advanced-electronic-materials-textbook",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Advanced_Electronic_Materials_textbook",
+                        "image512pxLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c052fb986f7746b2101e909",
+                        "shortName": "RFIDR",
+                        "name": "UHF RFID Reader",
+                        "link": "https://tarkov.dev/item/uhf-rfid-reader",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UHF_RFID_Reader",
+                        "image512pxLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "67da02e9078f1947650d7bb8",
+            "duration": 39600,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c052fb986f7746b2101e909",
+                        "shortName": "RFIDR",
+                        "name": "UHF RFID Reader",
+                        "link": "https://tarkov.dev/item/uhf-rfid-reader",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UHF_RFID_Reader",
+                        "image512pxLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590c621186f774138d11ea29",
+                        "shortName": "Flash drive",
+                        "name": "Secure Flash drive",
+                        "link": "https://tarkov.dev/item/secure-flash-drive",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_Flash_drive",
+                        "image512pxLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 2,
+                    "quantity": 2
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "62a0a16d0b9d3c46de5b6e97",
+                        "shortName": "MFD",
+                        "name": "Military flash drive",
+                        "link": "https://tarkov.dev/item/military-flash-drive",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Military_flash_drive",
+                        "image512pxLink": "https://assets.tarkov.dev/62a0a16d0b9d3c46de5b6e97-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/62a0a16d0b9d3c46de5b6e97-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/62a0a16d0b9d3c46de5b6e97-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/62a0a16d0b9d3c46de5b6e97-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/62a0a16d0b9d3c46de5b6e97-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c12613b86f7743bbe2c3f76",
+                        "shortName": "Intelligence",
+                        "name": "Intelligence folder",
+                        "link": "https://tarkov.dev/item/intelligence-folder",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Intelligence_folder",
+                        "image512pxLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 2,
+                    "quantity": 2
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "61bf7c024770ee6f9c6b8b53",
+                        "shortName": "SMT",
+                        "name": "Secure magnetic tape cassette",
+                        "link": "https://tarkov.dev/item/secure-magnetic-tape-cassette",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_magnetic_tape_cassette",
+                        "image512pxLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "6389c8c5dbfd5e4b95197e6b",
+                        "shortName": "Blue Folders",
+                        "name": "TerraGroup \"Blue Folders\" materials",
+                        "link": "https://tarkov.dev/item/terragroup-blue-folders-materials",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_%22Blue_Folders%22_materials",
+                        "image512pxLink": "https://assets.tarkov.dev/6389c8c5dbfd5e4b95197e6b-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/6389c8c5dbfd5e4b95197e6b-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/6389c8c5dbfd5e4b95197e6b-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/6389c8c5dbfd5e4b95197e6b-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/6389c8c5dbfd5e4b95197e6b-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "6399c421d65735732c6ba765",
+            "duration": 43200,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "62e910aaf957f2915e0a5e36",
+                        "shortName": "DSPT",
+                        "name": "Digital secure DSP radio transmitter",
+                        "link": "https://tarkov.dev/item/digital-secure-dsp-radio-transmitter",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Digital_secure_DSP_radio_transmitter",
+                        "image512pxLink": "https://assets.tarkov.dev/62e910aaf957f2915e0a5e36-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/62e910aaf957f2915e0a5e36-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/62e910aaf957f2915e0a5e36-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/62e910aaf957f2915e0a5e36-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/62e910aaf957f2915e0a5e36-8x.webp",
+                        "backgroundColor": "orange"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590c2d8786f774245b1f03f3",
+                        "shortName": "Scdr.",
+                        "name": "Screwdriver",
+                        "link": "https://tarkov.dev/item/screwdriver",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Screwdriver",
+                        "image512pxLink": "https://assets.tarkov.dev/590c2d8786f774245b1f03f3-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590c2d8786f774245b1f03f3-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590c2d8786f774245b1f03f3-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590c2d8786f774245b1f03f3-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590c2d8786f774245b1f03f3-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "6389c70ca33d8c4cdf4932c6",
+                        "shortName": "EC",
+                        "name": "Electronic components",
+                        "link": "https://tarkov.dev/item/electronic-components",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Electronic_components",
+                        "image512pxLink": "https://assets.tarkov.dev/6389c70ca33d8c4cdf4932c6-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/6389c70ca33d8c4cdf4932c6-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/6389c70ca33d8c4cdf4932c6-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/6389c70ca33d8c4cdf4932c6-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/6389c70ca33d8c4cdf4932c6-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "62e910aaf957f2915e0a5e36",
+                        "shortName": "DSPT",
+                        "name": "Digital secure DSP radio transmitter",
+                        "link": "https://tarkov.dev/item/digital-secure-dsp-radio-transmitter",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Digital_secure_DSP_radio_transmitter",
+                        "image512pxLink": "https://assets.tarkov.dev/62e910aaf957f2915e0a5e36-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/62e910aaf957f2915e0a5e36-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/62e910aaf957f2915e0a5e36-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/62e910aaf957f2915e0a5e36-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/62e910aaf957f2915e0a5e36-8x.webp",
+                        "backgroundColor": "orange"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "5eda0ad40699b81bb9142aae",
+            "duration": 225000,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "57347baf24597738002c6178",
+                        "shortName": "RAM",
+                        "name": "RAM stick",
+                        "link": "https://tarkov.dev/item/ram-stick",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RAM_stick",
+                        "image512pxLink": "https://assets.tarkov.dev/57347baf24597738002c6178-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/57347baf24597738002c6178-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/57347baf24597738002c6178-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/57347baf24597738002c6178-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/57347baf24597738002c6178-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 3,
+                    "quantity": 3
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590c392f86f77444754deb29",
+                        "shortName": "SSD",
+                        "name": "SSD drive",
+                        "link": "https://tarkov.dev/item/ssd-drive",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SSD_drive",
+                        "image512pxLink": "https://assets.tarkov.dev/590c392f86f77444754deb29-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590c392f86f77444754deb29-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590c392f86f77444754deb29-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590c392f86f77444754deb29-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590c392f86f77444754deb29-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 2,
+                    "quantity": 2
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "56742c324bdc2d150f8b456d",
+                        "shortName": "GPhone",
+                        "name": "Broken GPhone smartphone",
+                        "link": "https://tarkov.dev/item/broken-gphone-smartphone",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Broken_GPhone_smartphone",
+                        "image512pxLink": "https://assets.tarkov.dev/56742c324bdc2d150f8b456d-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/56742c324bdc2d150f8b456d-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/56742c324bdc2d150f8b456d-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/56742c324bdc2d150f8b456d-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/56742c324bdc2d150f8b456d-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 3,
+                    "quantity": 3
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590c2e1186f77425357b6124",
+                        "shortName": "Toolset",
+                        "name": "Toolset",
+                        "link": "https://tarkov.dev/item/toolset",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Toolset",
+                        "image512pxLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "6389c8fb46b54c634724d847",
+                        "shortName": "SOIC",
+                        "name": "Silicon Optoelectronic Integrated Circuits textbook",
+                        "link": "https://tarkov.dev/item/silicon-optoelectronic-integrated-circuits-textbook",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Silicon_Optoelectronic_Integrated_Circuits_textbook",
+                        "image512pxLink": "https://assets.tarkov.dev/6389c8fb46b54c634724d847-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/6389c8fb46b54c634724d847-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/6389c8fb46b54c634724d847-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/6389c8fb46b54c634724d847-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/6389c8fb46b54c634724d847-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c05300686f7746dce784e5d",
+                        "shortName": "VPX",
+                        "name": "VPX Flash Storage Module",
+                        "link": "https://tarkov.dev/item/vpx-flash-storage-module",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPX_Flash_Storage_Module",
+                        "image512pxLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 2,
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "62a112fec1cce91d2c46a06e",
+            "duration": 43200,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5a8036fb86f77407252ddc02",
+                        "shortName": "Shoreline",
+                        "name": "Shoreline plan map",
+                        "link": "https://tarkov.dev/item/shoreline-plan-map",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Shoreline_plan_map",
+                        "image512pxLink": "https://assets.tarkov.dev/5a8036fb86f77407252ddc02-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5a8036fb86f77407252ddc02-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5a8036fb86f77407252ddc02-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5a8036fb86f77407252ddc02-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5a8036fb86f77407252ddc02-8x.webp",
+                        "backgroundColor": "orange"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "574eb85c245977648157eec3",
+                        "shortName": "Factory",
+                        "name": "Factory plan map",
+                        "link": "https://tarkov.dev/item/factory-plan-map",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Factory_plan_map",
+                        "image512pxLink": "https://assets.tarkov.dev/574eb85c245977648157eec3-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/574eb85c245977648157eec3-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/574eb85c245977648157eec3-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/574eb85c245977648157eec3-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/574eb85c245977648157eec3-8x.webp",
+                        "backgroundColor": "orange"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5900b89686f7744e704a8747",
+                        "shortName": "Woods",
+                        "name": "Woods plan map",
+                        "link": "https://tarkov.dev/item/woods-plan-map",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Woods_plan_map",
+                        "image512pxLink": "https://assets.tarkov.dev/5900b89686f7744e704a8747-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5900b89686f7744e704a8747-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5900b89686f7744e704a8747-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5900b89686f7744e704a8747-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5900b89686f7744e704a8747-8x.webp",
+                        "backgroundColor": "orange"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5a80a29286f7742b25692012",
+                        "shortName": "Resort",
+                        "name": "Shoreline Health Resort plan map",
+                        "link": "https://tarkov.dev/item/shoreline-health-resort-plan-map",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Shoreline_Health_Resort_plan_map",
+                        "image512pxLink": "https://assets.tarkov.dev/5a80a29286f7742b25692012-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5a80a29286f7742b25692012-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5a80a29286f7742b25692012-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5a80a29286f7742b25692012-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5a80a29286f7742b25692012-8x.webp",
+                        "backgroundColor": "orange"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5798a2832459774b53341029",
+                        "shortName": "Customs",
+                        "name": "Customs plan map",
+                        "link": "https://tarkov.dev/item/customs-plan-map",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Customs_plan_map",
+                        "image512pxLink": "https://assets.tarkov.dev/5798a2832459774b53341029-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5798a2832459774b53341029-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5798a2832459774b53341029-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5798a2832459774b53341029-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5798a2832459774b53341029-8x.webp",
+                        "backgroundColor": "orange"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5be4038986f774527d3fae60",
+                        "shortName": "Interchange",
+                        "name": "Interchange plan map",
+                        "link": "https://tarkov.dev/item/interchange-plan-map",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Interchange_plan_map",
+                        "image512pxLink": "https://assets.tarkov.dev/5be4038986f774527d3fae60-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5be4038986f774527d3fae60-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5be4038986f774527d3fae60-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5be4038986f774527d3fae60-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5be4038986f774527d3fae60-8x.webp",
+                        "backgroundColor": "orange"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590c621186f774138d11ea29",
+                        "shortName": "Flash drive",
+                        "name": "Secure Flash drive",
+                        "link": "https://tarkov.dev/item/secure-flash-drive",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_Flash_drive",
+                        "image512pxLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 2,
+                    "quantity": 2
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "62a0a124de7ac81993580542",
+                        "shortName": "Maps",
+                        "name": "Topographic survey maps",
+                        "link": "https://tarkov.dev/item/topographic-survey-maps",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Topographic_survey_maps",
+                        "image512pxLink": "https://assets.tarkov.dev/62a0a124de7ac81993580542-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/62a0a124de7ac81993580542-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/62a0a124de7ac81993580542-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/62a0a124de7ac81993580542-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/62a0a124de7ac81993580542-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "5df914a53ce0f648b833bb37",
+            "duration": 123200,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "56742c324bdc2d150f8b456d",
+                        "shortName": "GPhone",
+                        "name": "Broken GPhone smartphone",
+                        "link": "https://tarkov.dev/item/broken-gphone-smartphone",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Broken_GPhone_smartphone",
+                        "image512pxLink": "https://assets.tarkov.dev/56742c324bdc2d150f8b456d-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/56742c324bdc2d150f8b456d-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/56742c324bdc2d150f8b456d-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/56742c324bdc2d150f8b456d-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/56742c324bdc2d150f8b456d-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c1265fc86f7743f896a21c2",
+                        "shortName": "GPX",
+                        "name": "Broken GPhone X smartphone",
+                        "link": "https://tarkov.dev/item/broken-gphone-x-smartphone",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Broken_GPhone_X_smartphone",
+                        "image512pxLink": "https://assets.tarkov.dev/5c1265fc86f7743f896a21c2-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c1265fc86f7743f896a21c2-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c1265fc86f7743f896a21c2-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c1265fc86f7743f896a21c2-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c1265fc86f7743f896a21c2-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590c392f86f77444754deb29",
+                        "shortName": "SSD",
+                        "name": "SSD drive",
+                        "link": "https://tarkov.dev/item/ssd-drive",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SSD_drive",
+                        "image512pxLink": "https://assets.tarkov.dev/590c392f86f77444754deb29-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590c392f86f77444754deb29-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590c392f86f77444754deb29-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590c392f86f77444754deb29-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590c392f86f77444754deb29-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590c621186f774138d11ea29",
+                        "shortName": "Flash drive",
+                        "name": "Secure Flash drive",
+                        "link": "https://tarkov.dev/item/secure-flash-drive",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_Flash_drive",
+                        "image512pxLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 3,
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "67da0223078f1947650d7bb7",
+            "duration": 2400,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c052fb986f7746b2101e909",
+                        "shortName": "RFIDR",
+                        "name": "UHF RFID Reader",
+                        "link": "https://tarkov.dev/item/uhf-rfid-reader",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UHF_RFID_Reader",
+                        "image512pxLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c12613b86f7743bbe2c3f76",
+                        "shortName": "Intelligence",
+                        "name": "Intelligence folder",
+                        "link": "https://tarkov.dev/item/intelligence-folder",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Intelligence_folder",
+                        "image512pxLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c12613b86f7743bbe2c3f76-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c94bbff86f7747ee735c08f",
+                        "shortName": "Access",
+                        "name": "TerraGroup Labs access keycard",
+                        "link": "https://tarkov.dev/item/terragroup-labs-access-keycard",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_Labs_access_keycard",
+                        "image512pxLink": "https://assets.tarkov.dev/5c94bbff86f7747ee735c08f-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c94bbff86f7747ee735c08f-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c94bbff86f7747ee735c08f-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c94bbff86f7747ee735c08f-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c94bbff86f7747ee735c08f-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 3,
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "5eda007f658fac5b8c3862a6",
+            "duration": 140000,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c1265fc86f7743f896a21c2",
+                        "shortName": "GPX",
+                        "name": "Broken GPhone X smartphone",
+                        "link": "https://tarkov.dev/item/broken-gphone-x-smartphone",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Broken_GPhone_X_smartphone",
+                        "image512pxLink": "https://assets.tarkov.dev/5c1265fc86f7743f896a21c2-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c1265fc86f7743f896a21c2-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c1265fc86f7743f896a21c2-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c1265fc86f7743f896a21c2-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c1265fc86f7743f896a21c2-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5af0561e86f7745f5f3ad6ac",
+                        "shortName": "Powerbank",
+                        "name": "Portable Powerbank",
+                        "link": "https://tarkov.dev/item/portable-powerbank",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Portable_Powerbank",
+                        "image512pxLink": "https://assets.tarkov.dev/5af0561e86f7745f5f3ad6ac-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5af0561e86f7745f5f3ad6ac-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5af0561e86f7745f5f3ad6ac-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5af0561e86f7745f5f3ad6ac-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5af0561e86f7745f5f3ad6ac-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d0376a486f7747d8050965c",
+                        "shortName": "MCB",
+                        "name": "Military circuit board",
+                        "link": "https://tarkov.dev/item/military-circuit-board",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Military_circuit_board",
+                        "image512pxLink": "https://assets.tarkov.dev/5d0376a486f7747d8050965c-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d0376a486f7747d8050965c-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d0376a486f7747d8050965c-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d0376a486f7747d8050965c-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d0376a486f7747d8050965c-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590c639286f774151567fa95",
+                        "shortName": "Manual",
+                        "name": "Tech manual",
+                        "link": "https://tarkov.dev/item/tech-manual",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Tech_manual",
+                        "image512pxLink": "https://assets.tarkov.dev/590c639286f774151567fa95-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590c639286f774151567fa95-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590c639286f774151567fa95-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590c639286f774151567fa95-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590c639286f774151567fa95-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590c2e1186f77425357b6124",
+                        "shortName": "Toolset",
+                        "name": "Toolset",
+                        "link": "https://tarkov.dev/item/toolset",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Toolset",
+                        "image512pxLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590c2e1186f77425357b6124-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "6389c7750ef44505c87f5996",
+                        "shortName": "MB",
+                        "name": "Microcontroller board",
+                        "link": "https://tarkov.dev/item/microcontroller-board",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Microcontroller_board",
+                        "image512pxLink": "https://assets.tarkov.dev/6389c7750ef44505c87f5996-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/6389c7750ef44505c87f5996-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/6389c7750ef44505c87f5996-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/6389c7750ef44505c87f5996-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/6389c7750ef44505c87f5996-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "6389c92d52123d5dd17f8876",
+                        "shortName": "AEM",
+                        "name": "Advanced Electronic Materials textbook",
+                        "link": "https://tarkov.dev/item/advanced-electronic-materials-textbook",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Advanced_Electronic_Materials_textbook",
+                        "image512pxLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c052f6886f7746b1e3db148",
+                        "shortName": "SG-C10",
+                        "name": "Military COFDM Wireless Signal Transmitter",
+                        "link": "https://tarkov.dev/item/military-cofdm-wireless-signal-transmitter",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Military_COFDM_Wireless_Signal_Transmitter",
+                        "image512pxLink": "https://assets.tarkov.dev/5c052f6886f7746b1e3db148-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c052f6886f7746b1e3db148-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c052f6886f7746b1e3db148-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c052f6886f7746b1e3db148-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c052f6886f7746b1e3db148-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "5ed9ff023a68ec264e5233c2",
+            "duration": 135399,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5d0376a486f7747d8050965c",
+                        "shortName": "MCB",
+                        "name": "Military circuit board",
+                        "link": "https://tarkov.dev/item/military-circuit-board",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Military_circuit_board",
+                        "image512pxLink": "https://assets.tarkov.dev/5d0376a486f7747d8050965c-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5d0376a486f7747d8050965c-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5d0376a486f7747d8050965c-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5d0376a486f7747d8050965c-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5d0376a486f7747d8050965c-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 2,
+                    "quantity": 2
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "573477e124597737dd42e191",
+                        "shortName": "CPU",
+                        "name": "PC CPU",
+                        "link": "https://tarkov.dev/item/pc-cpu",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PC_CPU",
+                        "image512pxLink": "https://assets.tarkov.dev/573477e124597737dd42e191-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/573477e124597737dd42e191-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/573477e124597737dd42e191-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/573477e124597737dd42e191-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/573477e124597737dd42e191-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 2,
+                    "quantity": 2
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c06782b86f77426df5407d2",
+                        "shortName": "Caps",
+                        "name": "Capacitors",
+                        "link": "https://tarkov.dev/item/capacitors",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Capacitors",
+                        "image512pxLink": "https://assets.tarkov.dev/5c06782b86f77426df5407d2-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c06782b86f77426df5407d2-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c06782b86f77426df5407d2-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c06782b86f77426df5407d2-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c06782b86f77426df5407d2-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 5,
+                    "quantity": 5
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "544fb5454bdc2df8738b456a",
+                        "shortName": "MultiTool",
+                        "name": "Leatherman Multitool",
+                        "link": "https://tarkov.dev/item/leatherman-multitool",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Leatherman_Multitool",
+                        "image512pxLink": "https://assets.tarkov.dev/544fb5454bdc2df8738b456a-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/544fb5454bdc2df8738b456a-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/544fb5454bdc2df8738b456a-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/544fb5454bdc2df8738b456a-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/544fb5454bdc2df8738b456a-8x.webp",
+                        "backgroundColor": "orange"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "6389c92d52123d5dd17f8876",
+                        "shortName": "AEM",
+                        "name": "Advanced Electronic Materials textbook",
+                        "link": "https://tarkov.dev/item/advanced-electronic-materials-textbook",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Advanced_Electronic_Materials_textbook",
+                        "image512pxLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/6389c92d52123d5dd17f8876-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c05308086f7746b2101e90b",
+                        "shortName": "Virtex",
+                        "name": "Virtex programmable processor",
+                        "link": "https://tarkov.dev/item/virtex-programmable-processor",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Virtex_programmable_processor",
+                        "image512pxLink": "https://assets.tarkov.dev/5c05308086f7746b2101e90b-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c05308086f7746b2101e90b-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c05308086f7746b2101e90b-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c05308086f7746b2101e90b-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c05308086f7746b2101e90b-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "__typename": "Craft",
+            "id": "6002e8fb41d38607bc4198ab",
+            "duration": 236000,
+            "requiredItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "590c621186f774138d11ea29",
+                        "shortName": "Flash drive",
+                        "name": "Secure Flash drive",
+                        "link": "https://tarkov.dev/item/secure-flash-drive",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_Flash_drive",
+                        "image512pxLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/590c621186f774138d11ea29-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 5,
+                    "quantity": 5
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5e42c83786f7742a021fdf3c",
+                        "shortName": "#21WS",
+                        "name": "Object #21WS keycard",
+                        "link": "https://tarkov.dev/item/object-21ws-keycard",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Object_21WS_keycard",
+                        "image512pxLink": "https://assets.tarkov.dev/5e42c83786f7742a021fdf3c-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5e42c83786f7742a021fdf3c-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5e42c83786f7742a021fdf3c-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5e42c83786f7742a021fdf3c-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5e42c83786f7742a021fdf3c-8x.webp",
+                        "backgroundColor": "violet"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c052fb986f7746b2101e909",
+                        "shortName": "RFIDR",
+                        "name": "UHF RFID Reader",
+                        "link": "https://tarkov.dev/item/uhf-rfid-reader",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UHF_RFID_Reader",
+                        "image512pxLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c052fb986f7746b2101e909-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5c05300686f7746dce784e5d",
+                        "shortName": "VPX",
+                        "name": "VPX Flash Storage Module",
+                        "link": "https://tarkov.dev/item/vpx-flash-storage-module",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPX_Flash_Storage_Module",
+                        "image512pxLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5c05300686f7746dce784e5d-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                },
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "61bf7c024770ee6f9c6b8b53",
+                        "shortName": "SMT",
+                        "name": "Secure magnetic tape cassette",
+                        "link": "https://tarkov.dev/item/secure-magnetic-tape-cassette",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_magnetic_tape_cassette",
+                        "image512pxLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/61bf7c024770ee6f9c6b8b53-8x.webp",
+                        "backgroundColor": "blue"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ],
+            "rewardItems": [
+                {
+                    "__typename": "ContainedItem",
+                    "item": {
+                        "__typename": "Item",
+                        "id": "5e42c81886f7742a01529f57",
+                        "shortName": "#11SR",
+                        "name": "Object #11SR keycard",
+                        "link": "https://tarkov.dev/item/object-11sr-keycard",
+                        "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Object_11SR_keycard",
+                        "image512pxLink": "https://assets.tarkov.dev/5e42c81886f7742a01529f57-512.webp",
+                        "gridImageLink": "https://assets.tarkov.dev/5e42c81886f7742a01529f57-grid-image.webp",
+                        "baseImageLink": "https://assets.tarkov.dev/5e42c81886f7742a01529f57-base-image.webp",
+                        "iconLink": "https://assets.tarkov.dev/5e42c81886f7742a01529f57-icon.webp",
+                        "image8xLink": "https://assets.tarkov.dev/5e42c81886f7742a01529f57-8x.webp",
+                        "backgroundColor": "green"
+                    },
+                    "count": 1,
+                    "quantity": 1
+                }
+            ]
+        }
+    ]
+}

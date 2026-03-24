@@ -1,0 +1,2751 @@
+[
+    {
+        "id": "54cb50c76803fa8b248b4571",
+        "name": "Prapor",
+        "description": "The Warrant officer in charge of supply warehouses on the sustaining base enforcing the Norvinsk region blockade. Secretly supplied the BEAR PMC operators with weapons, ammunition, and various other provisions he had at his disposal during the Contract Wars.",
+        "normalizedName": "prapor",
+        "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
+        "resetTime": "2025-12-01T05:24:16.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "54cb50c76803fa8b248b4571-1",
+                "level": 1,
+                "requiredPlayerLevel": 0,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.5,
+                "insuranceRate": 0.16,
+                "repairCostMultiplier": 3.4
+            },
+            {
+                "id": "54cb50c76803fa8b248b4571-2",
+                "level": 2,
+                "requiredPlayerLevel": 15,
+                "requiredReputation": 0.2,
+                "requiredCommerce": 1120000,
+                "payRate": 0.5,
+                "insuranceRate": 0.17,
+                "repairCostMultiplier": 3.7
+            },
+            {
+                "id": "54cb50c76803fa8b248b4571-3",
+                "level": 3,
+                "requiredPlayerLevel": 26,
+                "requiredReputation": 0.35,
+                "requiredCommerce": 2700000,
+                "payRate": 0.5,
+                "insuranceRate": 0.18,
+                "repairCostMultiplier": 3.85
+            },
+            {
+                "id": "54cb50c76803fa8b248b4571-4",
+                "level": 4,
+                "requiredPlayerLevel": 36,
+                "requiredReputation": 0.5,
+                "requiredCommerce": 3400000,
+                "payRate": 0.5,
+                "insuranceRate": 0.19,
+                "repairCostMultiplier": 4
+            }
+        ],
+        "currency": {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles",
+            "normalizedName": "roubles"
+        },
+        "barters": [
+            {
+                "id": "68fb7c726d7a9874090e64a81"
+            },
+            {
+                "id": "68fb7c726d7a9874090e64d81"
+            },
+            {
+                "id": "68fb7c736d7a9874090e65091"
+            },
+            {
+                "id": "68fb7c736d7a9874090e652a1"
+            },
+            {
+                "id": "68fb7c736d7a9874090e652e3"
+            },
+            {
+                "id": "68fb7c746d7a9874090e65973"
+            },
+            {
+                "id": "68fb7c746d7a9874090e65af1"
+            },
+            {
+                "id": "68fb7c746d7a9874090e65b61"
+            },
+            {
+                "id": "68fb7c746d7a9874090e65bf1"
+            },
+            {
+                "id": "68fb7c746d7a9874090e65c21"
+            },
+            {
+                "id": "68fb7c746d7a9874090e65d03"
+            },
+            {
+                "id": "68fb7c756d7a9874090e663e1"
+            },
+            {
+                "id": "68fb7c756d7a9874090e66505"
+            },
+            {
+                "id": "68fb7c766d7a9874090e66731"
+            },
+            {
+                "id": "68fb7c766d7a9874090e667c1"
+            },
+            {
+                "id": "68fb7c766d7a9874090e66a91"
+            },
+            {
+                "id": "68fb7c766d7a9874090e66c13"
+            },
+            {
+                "id": "68fb7c766d7a9874090e66df3"
+            },
+            {
+                "id": "68fb7c766d7a9874090e66e51"
+            },
+            {
+                "id": "68fb7c776d7a9874090e67082"
+            },
+            {
+                "id": "68fb7c776d7a9874090e67615"
+            },
+            {
+                "id": "68fb7c776d7a9874090e67905"
+            },
+            {
+                "id": "68fb7c786d7a9874090e67c11"
+            },
+            {
+                "id": "68fb7c786d7a9874090e67ce5"
+            },
+            {
+                "id": "68fb7c786d7a9874090e67e91"
+            },
+            {
+                "id": "68fb7c796d7a9874090e681b1"
+            },
+            {
+                "id": "68fb7c796d7a9874090e68311"
+            },
+            {
+                "id": "68fb7c796d7a9874090e68571"
+            },
+            {
+                "id": "68fb7c796d7a9874090e686d5"
+            },
+            {
+                "id": "68fb7c796d7a9874090e68761"
+            },
+            {
+                "id": "68fb7c7a6d7a9874090e68ac1"
+            },
+            {
+                "id": "68fb7c7a6d7a9874090e68c18"
+            },
+            {
+                "id": "68fb7c7a6d7a9874090e68d91"
+            },
+            {
+                "id": "68fb7c7a6d7a9874090e68e33"
+            },
+            {
+                "id": "68fb7c7a6d7a9874090e68e65"
+            },
+            {
+                "id": "68fb7c7b6d7a9874090e69011"
+            },
+            {
+                "id": "68fb7c7b6d7a9874090e69071"
+            },
+            {
+                "id": "68fb7c7b6d7a9874090e69193"
+            },
+            {
+                "id": "68fb7c7b6d7a9874090e69471"
+            },
+            {
+                "id": "68fb7c7b6d7a9874090e69573"
+            },
+            {
+                "id": "68fb7c7c6d7a9874090e696b3"
+            },
+            {
+                "id": "68fb7c7c6d7a9874090e699d3"
+            },
+            {
+                "id": "68fb7c7c6d7a9874090e69c31"
+            },
+            {
+                "id": "68fb7c7c6d7a9874090e69d51"
+            },
+            {
+                "id": "68fb7c7d6d7a9874090e69ea1"
+            },
+            {
+                "id": "68fb7c7d6d7a9874090e69fd3"
+            },
+            {
+                "id": "68fb7c7d6d7a9874090e6a0c1"
+            },
+            {
+                "id": "68fb7c7d6d7a9874090e6a341"
+            },
+            {
+                "id": "68fb7c7e6d7a9874090e6a591"
+            },
+            {
+                "id": "68fb7c7e6d7a9874090e6a941"
+            },
+            {
+                "id": "68fb7c7e6d7a9874090e6aac3"
+            },
+            {
+                "id": "68fb7c7e6d7a9874090e6ab23"
+            },
+            {
+                "id": "68fb7c7e6d7a9874090e6abb1"
+            },
+            {
+                "id": "68fb7c7f6d7a9874090e6acd5"
+            },
+            {
+                "id": "68fb7c7f6d7a9874090e6ad71"
+            },
+            {
+                "id": "68fb7c7f6d7a9874090e6aeb1"
+            },
+            {
+                "id": "68fb7c7f6d7a9874090e6b023"
+            },
+            {
+                "id": "68fb7c7f6d7a9874090e6b083"
+            },
+            {
+                "id": "68fb7c7f6d7a9874090e6b203"
+            },
+            {
+                "id": "68fb7c7f6d7a9874090e6b2f3"
+            },
+            {
+                "id": "68fb7c7f6d7a9874090e6b385"
+            },
+            {
+                "id": "68fb7c7f6d7a9874090e6b482"
+            },
+            {
+                "id": "68fb7c7f6d7a9874090e6b535"
+            },
+            {
+                "id": "68fb7c806d7a9874090e6b592"
+            },
+            {
+                "id": "68fb7c806d7a9874090e6b821"
+            },
+            {
+                "id": "68fb7c806d7a9874090e6b992"
+            },
+            {
+                "id": "68fb7c776d7a9874090e67082-5c0d668f86f7747ccb7f13b2"
+            },
+            {
+                "id": "68fb7c7f6d7a9874090e6b482-61962d879bb3d20b0946d385"
+            },
+            {
+                "id": "68fb7c806d7a9874090e6b592-56dff061d2720bb5668b4567"
+            },
+            {
+                "id": "68fb7c806d7a9874090e6b992-61962b617c6c7b169525f168"
+            }
+        ]
+    },
+    {
+        "id": "54cb57776803fa99248b456e",
+        "name": "Therapist",
+        "description": "Head of the Trauma Care Department of the Tarkov Central City Hospital.",
+        "normalizedName": "therapist",
+        "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
+        "resetTime": "2025-12-01T07:08:32.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "54cb57776803fa99248b456e-1",
+                "level": 1,
+                "requiredPlayerLevel": 0,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.63,
+                "insuranceRate": 0.2,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "54cb57776803fa99248b456e-2",
+                "level": 2,
+                "requiredPlayerLevel": 14,
+                "requiredReputation": 0.15,
+                "requiredCommerce": 600000,
+                "payRate": 0.63,
+                "insuranceRate": 0.21,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "54cb57776803fa99248b456e-3",
+                "level": 3,
+                "requiredPlayerLevel": 23,
+                "requiredReputation": 0.3,
+                "requiredCommerce": 1000000,
+                "payRate": 0.63,
+                "insuranceRate": 0.22,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "54cb57776803fa99248b456e-4",
+                "level": 4,
+                "requiredPlayerLevel": 37,
+                "requiredReputation": 0.6,
+                "requiredCommerce": 1600000,
+                "payRate": 0.63,
+                "insuranceRate": 0.23,
+                "repairCostMultiplier": null
+            }
+        ],
+        "currency": {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles",
+            "normalizedName": "roubles"
+        },
+        "barters": [
+            {
+                "id": "68fb7c806d7a9874090e6baca"
+            },
+            {
+                "id": "68fb7c806d7a9874090e6bbe5"
+            },
+            {
+                "id": "68fb7c806d7a9874090e6bd0a"
+            },
+            {
+                "id": "68fb7c806d7a9874090e6bd35"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6bd9b"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6bdca"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6be25"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6be8b"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6beb5"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6bee5"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6bf75"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6bfa4"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6bfd4"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c034"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c068"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c095"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c0c4"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c0f5"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c124"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c155"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c185"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c1b4"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c1e5"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c21a"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c27b"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c335"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c368"
+            },
+            {
+                "id": "68fb7c816d7a9874090e6c39b"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c3c8"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c3fa"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c45b"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c48b"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c4b8"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c4e8"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c51a"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c54b"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c57a"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c5db"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c60b"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c634"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c66a"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c694"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c6f4"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c72b"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c784"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c7b5"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c818"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c844"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c874"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c8a4"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c904"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c934"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c964"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c994"
+            },
+            {
+                "id": "68fb7c826d7a9874090e6c9c4"
+            }
+        ]
+    },
+    {
+        "id": "579dc571d53a0658a154fbec",
+        "name": "Fence",
+        "description": "The conflict had barely started when Fence began setting up anonymous outlets for buying and selling goods. Keeping incognito, he nevertheless managed to put together a well-organised smuggler network, operating all over the Norvinsk region.",
+        "normalizedName": "fence",
+        "imageLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec.webp",
+        "resetTime": "2025-12-01T05:42:54.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "579dc571d53a0658a154fbec-0",
+                "level": 0,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.3,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "579dc571d53a0658a154fbec-1",
+                "level": 1,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.3,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "579dc571d53a0658a154fbec-2",
+                "level": 2,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 6,
+                "requiredCommerce": 0,
+                "payRate": 0.3,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            }
+        ],
+        "currency": {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles",
+            "normalizedName": "roubles"
+        },
+        "barters": []
+    },
+    {
+        "id": "58330581ace78e27b8b10cee",
+        "name": "Skier",
+        "description": "Previously a port zone customs terminal employee, who initially oversaw dealings of the terminal's goods. Over the course of the conflict, he put together a gang of thugs in order to grab everything of value that he could lay his hands on in the vicinity of the terminal.",
+        "normalizedName": "skier",
+        "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
+        "resetTime": "2025-12-01T06:43:11.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "58330581ace78e27b8b10cee-1",
+                "level": 1,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.49,
+                "insuranceRate": null,
+                "repairCostMultiplier": 3.75
+            },
+            {
+                "id": "58330581ace78e27b8b10cee-2",
+                "level": 2,
+                "requiredPlayerLevel": 15,
+                "requiredReputation": 0.2,
+                "requiredCommerce": 1200000,
+                "payRate": 0.49,
+                "insuranceRate": null,
+                "repairCostMultiplier": 3.9
+            },
+            {
+                "id": "58330581ace78e27b8b10cee-3",
+                "level": 3,
+                "requiredPlayerLevel": 28,
+                "requiredReputation": 0.4,
+                "requiredCommerce": 2400000,
+                "payRate": 0.49,
+                "insuranceRate": null,
+                "repairCostMultiplier": 4.1
+            },
+            {
+                "id": "58330581ace78e27b8b10cee-4",
+                "level": 4,
+                "requiredPlayerLevel": 38,
+                "requiredReputation": 0.75,
+                "requiredCommerce": 3900000,
+                "payRate": 0.49,
+                "insuranceRate": null,
+                "repairCostMultiplier": 4.25
+            }
+        ],
+        "currency": {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles",
+            "normalizedName": "roubles"
+        },
+        "barters": [
+            {
+                "id": "68fb7c266d7a9874090e43de3"
+            },
+            {
+                "id": "68fb7c266d7a9874090e43f71"
+            },
+            {
+                "id": "68fb7c266d7a9874090e44053"
+            },
+            {
+                "id": "68fb7c276d7a9874090e44522"
+            },
+            {
+                "id": "68fb7c286d7a9874090e446f1"
+            },
+            {
+                "id": "68fb7c286d7a9874090e44753"
+            },
+            {
+                "id": "68fb7c286d7a9874090e44811"
+            },
+            {
+                "id": "68fb7c286d7a9874090e44af3"
+            },
+            {
+                "id": "68fb7c296d7a9874090e44de1"
+            },
+            {
+                "id": "68fb7c296d7a9874090e450d3"
+            },
+            {
+                "id": "68fb7c2a6d7a9874090e45993"
+            },
+            {
+                "id": "68fb7c2a6d7a9874090e45ae5"
+            },
+            {
+                "id": "68fb7c2b6d7a9874090e45c03"
+            },
+            {
+                "id": "68fb7c2b6d7a9874090e45fc3"
+            },
+            {
+                "id": "68fb7c2c6d7a9874090e46193"
+            },
+            {
+                "id": "68fb7c2c6d7a9874090e461f3"
+            },
+            {
+                "id": "68fb7c2d6d7a9874090e46a23"
+            },
+            {
+                "id": "68fb7c2d6d7a9874090e46a55"
+            },
+            {
+                "id": "68fb7c2d6d7a9874090e46b91"
+            },
+            {
+                "id": "68fb7c2e6d7a9874090e47123"
+            },
+            {
+                "id": "68fb7c2e6d7a9874090e47211"
+            },
+            {
+                "id": "68fb7c2e6d7a9874090e476b5"
+            },
+            {
+                "id": "68fb7c2f6d7a9874090e47a63"
+            },
+            {
+                "id": "68fb7c306d7a9874090e47d33"
+            },
+            {
+                "id": "68fb7c306d7a9874090e47e81"
+            },
+            {
+                "id": "68fb7c316d7a9874090e48312"
+            },
+            {
+                "id": "68fb7c316d7a9874090e484f3"
+            },
+            {
+                "id": "68fb7c316d7a9874090e48551"
+            },
+            {
+                "id": "68fb7c316d7a9874090e48761"
+            },
+            {
+                "id": "68fb7c316d7a9874090e488d3"
+            },
+            {
+                "id": "68fb7c316d7a9874090e48903"
+            },
+            {
+                "id": "68fb7c316d7a9874090e48961"
+            },
+            {
+                "id": "68fb7c316d7a9874090e48ae3"
+            },
+            {
+                "id": "68fb7c326d7a9874090e48cc3"
+            },
+            {
+                "id": "68fb7c326d7a9874090e48f61"
+            },
+            {
+                "id": "68fb7c336d7a9874090e49322"
+            },
+            {
+                "id": "68fb7c336d7a9874090e493b1"
+            },
+            {
+                "id": "68fb7c336d7a9874090e49498"
+            },
+            {
+                "id": "68fb7c336d7a9874090e495d5"
+            },
+            {
+                "id": "68fb7c276d7a9874090e44522-5c0d591486f7744c505b416f"
+            },
+            {
+                "id": "68fb7c316d7a9874090e48312-54527ac44bdc2d36668b4567"
+            },
+            {
+                "id": "68fb7c336d7a9874090e49322-5fc275cf85fd526b824a571a"
+            }
+        ]
+    },
+    {
+        "id": "5935c25fb3acc3127c3d8cd9",
+        "name": "Peacekeeper",
+        "description": "UN peacekeeping Force supply officer, based in one of the central checkpoints leading to the Tarkov port zone. The blue helmets have been seen poking their heads into small deals from the very beginning of the conflict, buying everything of value in exchange for western weapons, ammo, and all kinds of military equipment.",
+        "normalizedName": "peacekeeper",
+        "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
+        "resetTime": "2025-12-01T06:03:06.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "5935c25fb3acc3127c3d8cd9-1",
+                "level": 1,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.45,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "5935c25fb3acc3127c3d8cd9-2",
+                "level": 2,
+                "requiredPlayerLevel": 14,
+                "requiredReputation": 0,
+                "requiredCommerce": 16000,
+                "payRate": 0.45,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "5935c25fb3acc3127c3d8cd9-3",
+                "level": 3,
+                "requiredPlayerLevel": 23,
+                "requiredReputation": 0.3,
+                "requiredCommerce": 37000,
+                "payRate": 0.45,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "5935c25fb3acc3127c3d8cd9-4",
+                "level": 4,
+                "requiredPlayerLevel": 37,
+                "requiredReputation": 0.6,
+                "requiredCommerce": 55000,
+                "payRate": 0.45,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            }
+        ],
+        "currency": {
+            "id": "5696686a4bdc2da3298b456a",
+            "name": "Dollars",
+            "normalizedName": "dollars"
+        },
+        "barters": [
+            {
+                "id": "68fb7c576d7a9874090e59c45"
+            },
+            {
+                "id": "68fb7c586d7a9874090e5a321"
+            },
+            {
+                "id": "68fb7c586d7a9874090e5a4d3"
+            },
+            {
+                "id": "68fb7c596d7a9874090e5a701"
+            },
+            {
+                "id": "68fb7c596d7a9874090e5aaa1"
+            },
+            {
+                "id": "68fb7c5a6d7a9874090e5af21"
+            },
+            {
+                "id": "68fb7c5a6d7a9874090e5b0e1"
+            },
+            {
+                "id": "68fb7c5a6d7a9874090e5b255"
+            },
+            {
+                "id": "68fb7c5a6d7a9874090e5b283"
+            },
+            {
+                "id": "68fb7c5b6d7a9874090e5b5c3"
+            },
+            {
+                "id": "68fb7c5b6d7a9874090e5b823"
+            },
+            {
+                "id": "68fb7c5b6d7a9874090e5b9a1"
+            },
+            {
+                "id": "68fb7c5c6d7a9874090e5bc91"
+            },
+            {
+                "id": "68fb7c5c6d7a9874090e5bcc1"
+            },
+            {
+                "id": "68fb7c5d6d7a9874090e5c2c1"
+            },
+            {
+                "id": "68fb7c5d6d7a9874090e5c575"
+            },
+            {
+                "id": "68fb7c5e6d7a9874090e5cba3"
+            },
+            {
+                "id": "68fb7c5f6d7a9874090e5d421"
+            },
+            {
+                "id": "68fb7c5f6d7a9874090e5d4c5"
+            },
+            {
+                "id": "68fb7c606d7a9874090e5d7b3"
+            },
+            {
+                "id": "68fb7c616d7a9874090e5df01"
+            },
+            {
+                "id": "68fb7c616d7a9874090e5dfec"
+            },
+            {
+                "id": "68fb7c616d7a9874090e5e193"
+            },
+            {
+                "id": "68fb7c626d7a9874090e5e453"
+            },
+            {
+                "id": "68fb7c626d7a9874090e5e611"
+            },
+            {
+                "id": "68fb7c626d7a9874090e5e953"
+            },
+            {
+                "id": "68fb7c626d7a9874090e5ea71"
+            },
+            {
+                "id": "68fb7c636d7a9874090e5f1a3"
+            },
+            {
+                "id": "68fb7c636d7a9874090e5f243"
+            },
+            {
+                "id": "68fb7c646d7a9874090e5f911"
+            },
+            {
+                "id": "68fb7c646d7a9874090e5fa63"
+            },
+            {
+                "id": "68fb7c656d7a9874090e5fe53"
+            },
+            {
+                "id": "68fb7c656d7a9874090e60003"
+            },
+            {
+                "id": "68fb7c656d7a9874090e60033"
+            },
+            {
+                "id": "68fb7c656d7a9874090e60091"
+            },
+            {
+                "id": "68fb7c666d7a9874090e60395"
+            },
+            {
+                "id": "68fb7c666d7a9874090e60455"
+            },
+            {
+                "id": "68fb7c666d7a9874090e606e5"
+            },
+            {
+                "id": "68fb7c676d7a9874090e60a15"
+            },
+            {
+                "id": "68fb7c676d7a9874090e60dd3"
+            },
+            {
+                "id": "68fb7c686d7a9874090e61311"
+            },
+            {
+                "id": "68fb7c696d7a9874090e615e5"
+            },
+            {
+                "id": "68fb7c696d7a9874090e61b81"
+            },
+            {
+                "id": "68fb7c6a6d7a9874090e61dc3"
+            },
+            {
+                "id": "68fb7c6a6d7a9874090e61f81"
+            },
+            {
+                "id": "68fb7c6a6d7a9874090e62163"
+            },
+            {
+                "id": "68fb7c6a6d7a9874090e621c2"
+            },
+            {
+                "id": "68fb7c6a6d7a9874090e62273"
+            },
+            {
+                "id": "68fb7c6b6d7a9874090e62332"
+            },
+            {
+                "id": "68fb7c6b6d7a9874090e626b3"
+            },
+            {
+                "id": "68fb7c6b6d7a9874090e62711"
+            },
+            {
+                "id": "68fb7c6b6d7a9874090e62863"
+            },
+            {
+                "id": "68fb7c6c6d7a9874090e62b71"
+            },
+            {
+                "id": "68fb7c6d6d7a9874090e63351"
+            },
+            {
+                "id": "68fb7c6d6d7a9874090e63633"
+            },
+            {
+                "id": "68fb7c6d6d7a9874090e637c1"
+            },
+            {
+                "id": "68fb7c6a6d7a9874090e621c2-5a608bf24f39f98ffc77720e"
+            },
+            {
+                "id": "68fb7c6b6d7a9874090e62332-5cc80f38e4a949001152b560"
+            }
+        ]
+    },
+    {
+        "id": "5a7c2eca46aef81a7ca2145d",
+        "name": "Mechanic",
+        "description": "A former chemical plant foreman, who from the very beginning of the conflict took to weapon modification, repairs, and maintenance of complex equipment and technology. He prefers clandestine solo living and operates discreetly, while placing complicated and challenging tasks above all else.",
+        "normalizedName": "mechanic",
+        "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
+        "resetTime": "2025-12-01T06:35:47.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "5a7c2eca46aef81a7ca2145d-1",
+                "level": 1,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.56,
+                "insuranceRate": null,
+                "repairCostMultiplier": 4.1
+            },
+            {
+                "id": "5a7c2eca46aef81a7ca2145d-2",
+                "level": 2,
+                "requiredPlayerLevel": 20,
+                "requiredReputation": 0.15,
+                "requiredCommerce": 1120000,
+                "payRate": 0.56,
+                "insuranceRate": null,
+                "repairCostMultiplier": 4.25
+            },
+            {
+                "id": "5a7c2eca46aef81a7ca2145d-3",
+                "level": 3,
+                "requiredPlayerLevel": 30,
+                "requiredReputation": 0.3,
+                "requiredCommerce": 2400000,
+                "payRate": 0.56,
+                "insuranceRate": null,
+                "repairCostMultiplier": 4.4
+            },
+            {
+                "id": "5a7c2eca46aef81a7ca2145d-4",
+                "level": 4,
+                "requiredPlayerLevel": 40,
+                "requiredReputation": 0.6,
+                "requiredCommerce": 3700000,
+                "payRate": 0.56,
+                "insuranceRate": null,
+                "repairCostMultiplier": 4.6
+            }
+        ],
+        "currency": {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles",
+            "normalizedName": "roubles"
+        },
+        "barters": [
+            {
+                "id": "68fb7c416d7a9874090e4f813"
+            },
+            {
+                "id": "68fb7c416d7a9874090e4f841"
+            },
+            {
+                "id": "68fb7c426d7a9874090e4ff01"
+            },
+            {
+                "id": "68fb7c426d7a9874090e4ffa1"
+            },
+            {
+                "id": "68fb7c426d7a9874090e50213"
+            },
+            {
+                "id": "68fb7c436d7a9874090e50633"
+            },
+            {
+                "id": "68fb7c436d7a9874090e50721"
+            },
+            {
+                "id": "68fb7c436d7a9874090e507e5"
+            },
+            {
+                "id": "68fb7c446d7a9874090e50933"
+            },
+            {
+                "id": "68fb7c446d7a9874090e50991"
+            },
+            {
+                "id": "68fb7c446d7a9874090e50c45"
+            },
+            {
+                "id": "68fb7c446d7a9874090e50ca3"
+            },
+            {
+                "id": "68fb7c446d7a9874090e50cd1"
+            },
+            {
+                "id": "68fb7c456d7a9874090e50fd1"
+            },
+            {
+                "id": "68fb7c456d7a9874090e51261"
+            },
+            {
+                "id": "68fb7c456d7a9874090e51313"
+            },
+            {
+                "id": "68fb7c456d7a9874090e51413"
+            },
+            {
+                "id": "68fb7c456d7a9874090e51473"
+            },
+            {
+                "id": "68fb7c456d7a9874090e514d8"
+            },
+            {
+                "id": "68fb7c456d7a9874090e516b8"
+            },
+            {
+                "id": "68fb7c466d7a9874090e518d1"
+            },
+            {
+                "id": "68fb7c466d7a9874090e51a13"
+            },
+            {
+                "id": "68fb7c466d7a9874090e51a41"
+            },
+            {
+                "id": "68fb7c466d7a9874090e51b81"
+            },
+            {
+                "id": "68fb7c476d7a9874090e52031"
+            },
+            {
+                "id": "68fb7c476d7a9874090e52233"
+            },
+            {
+                "id": "68fb7c476d7a9874090e52261"
+            },
+            {
+                "id": "68fb7c486d7a9874090e52833"
+            },
+            {
+                "id": "68fb7c486d7a9874090e52898"
+            },
+            {
+                "id": "68fb7c486d7a9874090e528c1"
+            },
+            {
+                "id": "68fb7c486d7a9874090e52df5"
+            },
+            {
+                "id": "68fb7c496d7a9874090e52e51"
+            },
+            {
+                "id": "68fb7c496d7a9874090e52ef1"
+            },
+            {
+                "id": "68fb7c496d7a9874090e53013"
+            },
+            {
+                "id": "68fb7c496d7a9874090e530d1"
+            },
+            {
+                "id": "68fb7c496d7a9874090e531f1"
+            },
+            {
+                "id": "68fb7c496d7a9874090e53313"
+            },
+            {
+                "id": "68fb7c496d7a9874090e533d3"
+            },
+            {
+                "id": "68fb7c4a6d7a9874090e536c3"
+            },
+            {
+                "id": "68fb7c4a6d7a9874090e53751"
+            },
+            {
+                "id": "68fb7c4a6d7a9874090e538a3"
+            },
+            {
+                "id": "68fb7c4a6d7a9874090e53a13"
+            },
+            {
+                "id": "68fb7c4a6d7a9874090e53b03"
+            },
+            {
+                "id": "68fb7c4a6d7a9874090e53d43"
+            },
+            {
+                "id": "68fb7c4b6d7a9874090e54491"
+            },
+            {
+                "id": "68fb7c4b6d7a9874090e54593"
+            },
+            {
+                "id": "68fb7c4c6d7a9874090e54815"
+            },
+            {
+                "id": "68fb7c4c6d7a9874090e54a33"
+            },
+            {
+                "id": "68fb7c4c6d7a9874090e54e0b"
+            },
+            {
+                "id": "68fb7c4c6d7a9874090e54ec3"
+            },
+            {
+                "id": "68fb7c4d6d7a9874090e55133"
+            },
+            {
+                "id": "68fb7c4d6d7a9874090e55161"
+            },
+            {
+                "id": "68fb7c4d6d7a9874090e553c3"
+            },
+            {
+                "id": "68fb7c4d6d7a9874090e554b3"
+            },
+            {
+                "id": "68fb7c4d6d7a9874090e55573"
+            },
+            {
+                "id": "68fb7c4e6d7a9874090e55943"
+            },
+            {
+                "id": "68fb7c4e6d7a9874090e55978"
+            },
+            {
+                "id": "68fb7c4e6d7a9874090e55ee1"
+            },
+            {
+                "id": "68fb7c4f6d7a9874090e56156"
+            },
+            {
+                "id": "68fb7c4f6d7a9874090e561e8"
+            },
+            {
+                "id": "68fb7c4f6d7a9874090e56273"
+            },
+            {
+                "id": "68fb7c4f6d7a9874090e563f3"
+            },
+            {
+                "id": "68fb7c506d7a9874090e56548"
+            },
+            {
+                "id": "68fb7c506d7a9874090e56661"
+            },
+            {
+                "id": "68fb7c506d7a9874090e566e1"
+            },
+            {
+                "id": "68fb7c506d7a9874090e5699b"
+            },
+            {
+                "id": "68fb7c506d7a9874090e56ab3"
+            },
+            {
+                "id": "68fb7c506d7a9874090e56b11"
+            },
+            {
+                "id": "68fb7c516d7a9874090e56cd1"
+            },
+            {
+                "id": "68fb7c516d7a9874090e56d03"
+            },
+            {
+                "id": "68fb7c516d7a9874090e56df3"
+            },
+            {
+                "id": "68fb7c516d7a9874090e56e28"
+            },
+            {
+                "id": "68fb7c516d7a9874090e56e53"
+            },
+            {
+                "id": "68fb7c516d7a9874090e56ee3"
+            },
+            {
+                "id": "68fb7c516d7a9874090e56f13"
+            },
+            {
+                "id": "68fb7c516d7a9874090e57278"
+            },
+            {
+                "id": "68fb7c526d7a9874090e57393"
+            },
+            {
+                "id": "68fb7c526d7a9874090e574b3"
+            },
+            {
+                "id": "68fb7c526d7a9874090e57653"
+            },
+            {
+                "id": "68fb7c526d7a9874090e57743"
+            },
+            {
+                "id": "68fb7c526d7a9874090e57773"
+            },
+            {
+                "id": "68fb7c526d7a9874090e57831"
+            },
+            {
+                "id": "68fb7c526d7a9874090e578c8"
+            },
+            {
+                "id": "68fb7c536d7a9874090e57951"
+            },
+            {
+                "id": "68fb7c536d7a9874090e57ae1"
+            },
+            {
+                "id": "68fb7c536d7a9874090e57bb1"
+            },
+            {
+                "id": "68fb7c536d7a9874090e57cb1"
+            },
+            {
+                "id": "68fb7c536d7a9874090e57d71"
+            },
+            {
+                "id": "68fb7c536d7a9874090e57e21"
+            },
+            {
+                "id": "68fb7c536d7a9874090e57f41"
+            },
+            {
+                "id": "68fb7c536d7a9874090e584a3"
+            },
+            {
+                "id": "68fb7c536d7a9874090e584d8"
+            },
+            {
+                "id": "68fb7c546d7a9874090e58503"
+            },
+            {
+                "id": "68fb7c546d7a9874090e58593"
+            },
+            {
+                "id": "68fb7c546d7a9874090e58621"
+            },
+            {
+                "id": "68fb7c546d7a9874090e587b3"
+            },
+            {
+                "id": "68fb7c546d7a9874090e58813"
+            },
+            {
+                "id": "68fb7c546d7a9874090e58963"
+            },
+            {
+                "id": "68fb7c546d7a9874090e58991"
+            },
+            {
+                "id": "68fb7c556d7a9874090e58cd1"
+            },
+            {
+                "id": "68fb7c556d7a9874090e58d93"
+            },
+            {
+                "id": "68fb7c556d7a9874090e58eb1"
+            },
+            {
+                "id": "68fb7c556d7a9874090e59332"
+            },
+            {
+                "id": "68fb7c556d7a9874090e59332-5ea2a8e200685063ec28c05a"
+            }
+        ]
+    },
+    {
+        "id": "5ac3b934156ae10c4430e83c",
+        "name": "Ragman",
+        "description": "Previously, he worked as a director in a shopping center located in the suburbs of Tarkov. Now dealing in mostly clothing- and gear-related items, anywhere from sunglasses to body armor.",
+        "normalizedName": "ragman",
+        "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
+        "resetTime": "2025-12-01T05:05:35.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "5ac3b934156ae10c4430e83c-1",
+                "level": 1,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.62,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "5ac3b934156ae10c4430e83c-2",
+                "level": 2,
+                "requiredPlayerLevel": 17,
+                "requiredReputation": 0,
+                "requiredCommerce": 1120000,
+                "payRate": 0.62,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "5ac3b934156ae10c4430e83c-3",
+                "level": 3,
+                "requiredPlayerLevel": 32,
+                "requiredReputation": 0.3,
+                "requiredCommerce": 2400000,
+                "payRate": 0.62,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "5ac3b934156ae10c4430e83c-4",
+                "level": 4,
+                "requiredPlayerLevel": 42,
+                "requiredReputation": 0.6,
+                "requiredCommerce": 3700000,
+                "payRate": 0.62,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            }
+        ],
+        "currency": {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles",
+            "normalizedName": "roubles"
+        },
+        "barters": [
+            {
+                "id": "68fb7c1d6d7a9874090e3f1a5"
+            },
+            {
+                "id": "68fb7c1e6d7a9874090e3f355"
+            },
+            {
+                "id": "68fb7c1e6d7a9874090e3f385"
+            },
+            {
+                "id": "68fb7c1e6d7a9874090e3f7c5"
+            },
+            {
+                "id": "68fb7c1e6d7a9874090e3f7f5"
+            },
+            {
+                "id": "68fb7c1e6d7a9874090e3f8e5"
+            },
+            {
+                "id": "68fb7c1f6d7a9874090e3fa95"
+            },
+            {
+                "id": "68fb7c1f6d7a9874090e3fd45"
+            },
+            {
+                "id": "68fb7c1f6d7a9874090e3fda5"
+            },
+            {
+                "id": "68fb7c1f6d7a9874090e3fe35"
+            },
+            {
+                "id": "68fb7c1f6d7a9874090e3fe95"
+            },
+            {
+                "id": "68fb7c1f6d7a9874090e40085"
+            },
+            {
+                "id": "68fb7c1f6d7a9874090e40111"
+            },
+            {
+                "id": "68fb7c1f6d7a9874090e40145"
+            },
+            {
+                "id": "68fb7c1f6d7a9874090e401f5"
+            },
+            {
+                "id": "68fb7c1f6d7a9874090e40295"
+            },
+            {
+                "id": "68fb7c1f6d7a9874090e40325"
+            },
+            {
+                "id": "68fb7c1f6d7a9874090e403b5"
+            },
+            {
+                "id": "68fb7c1f6d7a9874090e40585"
+            },
+            {
+                "id": "68fb7c206d7a9874090e40645"
+            },
+            {
+                "id": "68fb7c206d7a9874090e40995"
+            },
+            {
+                "id": "68fb7c206d7a9874090e40dd5"
+            },
+            {
+                "id": "68fb7c206d7a9874090e40e65"
+            },
+            {
+                "id": "68fb7c206d7a9874090e40f25"
+            },
+            {
+                "id": "68fb7c206d7a9874090e410c5"
+            },
+            {
+                "id": "68fb7c216d7a9874090e410f5"
+            },
+            {
+                "id": "68fb7c216d7a9874090e41125"
+            },
+            {
+                "id": "68fb7c216d7a9874090e41335"
+            },
+            {
+                "id": "68fb7c216d7a9874090e413f5"
+            },
+            {
+                "id": "68fb7c216d7a9874090e41425"
+            },
+            {
+                "id": "68fb7c216d7a9874090e41665"
+            },
+            {
+                "id": "68fb7c216d7a9874090e416c5"
+            },
+            {
+                "id": "68fb7c216d7a9874090e416f5"
+            },
+            {
+                "id": "68fb7c216d7a9874090e41865"
+            },
+            {
+                "id": "68fb7c216d7a9874090e41985"
+            },
+            {
+                "id": "68fb7c216d7a9874090e41a75"
+            },
+            {
+                "id": "68fb7c216d7a9874090e41b25"
+            },
+            {
+                "id": "68fb7c216d7a9874090e41c15"
+            },
+            {
+                "id": "68fb7c226d7a9874090e41d35"
+            },
+            {
+                "id": "68fb7c226d7a9874090e42035"
+            },
+            {
+                "id": "68fb7c226d7a9874090e42145"
+            },
+            {
+                "id": "68fb7c226d7a9874090e421b5"
+            },
+            {
+                "id": "68fb7c226d7a9874090e423a5"
+            },
+            {
+                "id": "68fb7c226d7a9874090e425f5"
+            },
+            {
+                "id": "68fb7c226d7a9874090e42698"
+            },
+            {
+                "id": "68fb7c226d7a9874090e427d5"
+            },
+            {
+                "id": "68fb7c226d7a9874090e42835"
+            },
+            {
+                "id": "68fb7c236d7a9874090e428cb"
+            },
+            {
+                "id": "68fb7c236d7a9874090e42925"
+            },
+            {
+                "id": "68fb7c236d7a9874090e42af5"
+            },
+            {
+                "id": "68fb7c236d7a9874090e42dc5"
+            },
+            {
+                "id": "68fb7c236d7a9874090e42e35"
+            },
+            {
+                "id": "68fb7c236d7a9874090e42fc5"
+            },
+            {
+                "id": "68fb7c236d7a9874090e42ff5"
+            },
+            {
+                "id": "68fb7c236d7a9874090e43025"
+            },
+            {
+                "id": "68fb7c236d7a9874090e430b5"
+            }
+        ]
+    },
+    {
+        "id": "5c0647fdd443bc2504c2d371",
+        "name": "Jaeger",
+        "description": "Before the conflict, he worked as a hunter in the Priozersk Natural Reserve under the State Hunting Service. A professional hunter and survival specialist. Even now, he still guards the reserve's hunting grounds from various aggressive individuals.",
+        "normalizedName": "jaeger",
+        "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
+        "resetTime": "2025-12-01T05:26:21.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "5c0647fdd443bc2504c2d371-1",
+                "level": 1,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.6,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "5c0647fdd443bc2504c2d371-2",
+                "level": 2,
+                "requiredPlayerLevel": 15,
+                "requiredReputation": 0.2,
+                "requiredCommerce": 840000,
+                "payRate": 0.6,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "5c0647fdd443bc2504c2d371-3",
+                "level": 3,
+                "requiredPlayerLevel": 22,
+                "requiredReputation": 0.35,
+                "requiredCommerce": 1680000,
+                "payRate": 0.6,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "5c0647fdd443bc2504c2d371-4",
+                "level": 4,
+                "requiredPlayerLevel": 33,
+                "requiredReputation": 0.5,
+                "requiredCommerce": 2580000,
+                "payRate": 0.6,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            }
+        ],
+        "currency": {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles",
+            "normalizedName": "roubles"
+        },
+        "barters": [
+            {
+                "id": "68fb7c346d7a9874090e49b15"
+            },
+            {
+                "id": "68fb7c346d7a9874090e49cd3"
+            },
+            {
+                "id": "68fb7c366d7a9874090e4a903"
+            },
+            {
+                "id": "68fb7c366d7a9874090e4a933"
+            },
+            {
+                "id": "68fb7c376d7a9874090e4ac25"
+            },
+            {
+                "id": "68fb7c376d7a9874090e4ac53"
+            },
+            {
+                "id": "68fb7c376d7a9874090e4afd5"
+            },
+            {
+                "id": "68fb7c376d7a9874090e4b165"
+            },
+            {
+                "id": "68fb7c376d7a9874090e4b213"
+            },
+            {
+                "id": "68fb7c376d7a9874090e4b331"
+            },
+            {
+                "id": "68fb7c386d7a9874090e4b49b"
+            },
+            {
+                "id": "68fb7c386d7a9874090e4b6b5"
+            },
+            {
+                "id": "68fb7c386d7a9874090e4b941"
+            },
+            {
+                "id": "68fb7c396d7a9874090e4bb23"
+            },
+            {
+                "id": "68fb7c396d7a9874090e4bcd1"
+            },
+            {
+                "id": "68fb7c396d7a9874090e4c004"
+            },
+            {
+                "id": "68fb7c396d7a9874090e4c03b"
+            },
+            {
+                "id": "68fb7c396d7a9874090e4c151"
+            },
+            {
+                "id": "68fb7c396d7a9874090e4c1c1"
+            },
+            {
+                "id": "68fb7c396d7a9874090e4c511"
+            },
+            {
+                "id": "68fb7c3a6d7a9874090e4c693"
+            },
+            {
+                "id": "68fb7c3a6d7a9874090e4c8eb"
+            },
+            {
+                "id": "68fb7c3a6d7a9874090e4c913"
+            },
+            {
+                "id": "68fb7c3a6d7a9874090e4c97b"
+            },
+            {
+                "id": "68fb7c3a6d7a9874090e4c9a3"
+            },
+            {
+                "id": "68fb7c3a6d7a9874090e4c9d3"
+            },
+            {
+                "id": "68fb7c3a6d7a9874090e4cadb"
+            },
+            {
+                "id": "68fb7c3b6d7a9874090e4cd55"
+            },
+            {
+                "id": "68fb7c3b6d7a9874090e4cdb3"
+            },
+            {
+                "id": "68fb7c3b6d7a9874090e4ce5a"
+            },
+            {
+                "id": "68fb7c3b6d7a9874090e4cf2b"
+            },
+            {
+                "id": "68fb7c3b6d7a9874090e4cfc5"
+            },
+            {
+                "id": "68fb7c3b6d7a9874090e4d0ab"
+            },
+            {
+                "id": "68fb7c3b6d7a9874090e4d104"
+            },
+            {
+                "id": "68fb7c3c6d7a9874090e4d325"
+            },
+            {
+                "id": "68fb7c3c6d7a9874090e4d861"
+            },
+            {
+                "id": "68fb7c3c6d7a9874090e4d9b1"
+            },
+            {
+                "id": "68fb7c3d6d7a9874090e4ddc1"
+            },
+            {
+                "id": "68fb7c3d6d7a9874090e4de71"
+            },
+            {
+                "id": "68fb7c3d6d7a9874090e4e0f1"
+            },
+            {
+                "id": "68fb7c3d6d7a9874090e4e492"
+            },
+            {
+                "id": "68fb7c3e6d7a9874090e4e5c3"
+            },
+            {
+                "id": "68fb7c3e6d7a9874090e4e651"
+            },
+            {
+                "id": "68fb7c3f6d7a9874090e4ebe3"
+            },
+            {
+                "id": "68fb7c3f6d7a9874090e4ec48"
+            },
+            {
+                "id": "68fb7c3f6d7a9874090e4eda1"
+            },
+            {
+                "id": "68fb7c3f6d7a9874090e4ee91"
+            },
+            {
+                "id": "68fb7c3f6d7a9874090e4efd2"
+            },
+            {
+                "id": "68fb7c3f6d7a9874090e4f021"
+            },
+            {
+                "id": "68fb7c3f6d7a9874090e4f1b1"
+            },
+            {
+                "id": "68fb7c3f6d7a9874090e4f283"
+            },
+            {
+                "id": "68fb7c3f6d7a9874090e4f2e1"
+            },
+            {
+                "id": "68fb7c3f6d7a9874090e4f342"
+            },
+            {
+                "id": "68fb7c3f6d7a9874090e4f3e2"
+            },
+            {
+                "id": "68fb7c406d7a9874090e4f452"
+            },
+            {
+                "id": "68fb7c406d7a9874090e4f4e3"
+            },
+            {
+                "id": "68fb7c406d7a9874090e4f552"
+            },
+            {
+                "id": "68fb7c406d7a9874090e4f5d2"
+            },
+            {
+                "id": "68fb7c406d7a9874090e4f643"
+            },
+            {
+                "id": "68fb7c406d7a9874090e4f6e4"
+            },
+            {
+                "id": "68fb7c406d7a9874090e4f718"
+            },
+            {
+                "id": "68fb7c3f6d7a9874090e4efd2-5a6086ea4f39f99cd479502f"
+            },
+            {
+                "id": "68fb7c3f6d7a9874090e4f342-660137ef76c1b56143052be8"
+            },
+            {
+                "id": "68fb7c3f6d7a9874090e4f3e2-660137d8481cc6907a0c5cda"
+            },
+            {
+                "id": "68fb7c406d7a9874090e4f452-5fc275cf85fd526b824a571a"
+            },
+            {
+                "id": "68fb7c406d7a9874090e4f552-5cadf6eeae921500134b2799"
+            },
+            {
+                "id": "68fb7c406d7a9874090e4f5d2-6601380580e77cfd080e3418"
+            }
+        ]
+    },
+    {
+        "id": "638f541a29ffd1183d187f57",
+        "name": "Lightkeeper",
+        "description": "<Classified>",
+        "normalizedName": "lightkeeper",
+        "imageLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57.webp",
+        "resetTime": "2025-12-01T05:51:57.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "638f541a29ffd1183d187f57-1",
+                "level": 1,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.0001,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            }
+        ],
+        "currency": {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles",
+            "normalizedName": "roubles"
+        },
+        "barters": []
+    },
+    {
+        "id": "656f0f98d80a697f855d34b1",
+        "name": "BTR Driver",
+        "description": "<Unknown>",
+        "normalizedName": "btr-driver",
+        "imageLink": "https://assets.tarkov.dev/656f0f98d80a697f855d34b1.webp",
+        "resetTime": "2025-12-01T05:43:53.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "656f0f98d80a697f855d34b1-1",
+                "level": 1,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.0001,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            }
+        ],
+        "currency": {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles",
+            "normalizedName": "roubles"
+        },
+        "barters": []
+    },
+    {
+        "id": "68fe15990f29ba3fdbba9d55",
+        "name": "Radio station",
+        "description": "A multi-function radio station with built-in cryptographic processor.",
+        "normalizedName": "radio-station",
+        "imageLink": "https://assets.tarkov.dev/68fe15990f29ba3fdbba9d55.webp",
+        "resetTime": "2025-12-01T05:51:56.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "68fe15990f29ba3fdbba9d55-1",
+                "level": 1,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.0001,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            }
+        ],
+        "currency": {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles",
+            "normalizedName": "roubles"
+        },
+        "barters": []
+    },
+    {
+        "id": "68fe15910f29ba3fdbba9d54",
+        "name": "Taran",
+        "description": "Member of the Bogatyr squad.",
+        "normalizedName": "taran",
+        "imageLink": "https://assets.tarkov.dev/68fe15910f29ba3fdbba9d54.webp",
+        "resetTime": "2025-12-01T05:53:53.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "68fe15910f29ba3fdbba9d54-1",
+                "level": 1,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.0001,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            }
+        ],
+        "currency": {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles",
+            "normalizedName": "roubles"
+        },
+        "barters": []
+    },
+    {
+        "id": "6617beeaa9cfa777ca915b7c",
+        "name": "Ref",
+        "description": "The Arena host who organizes pit fights across Tarkov.",
+        "normalizedName": "ref",
+        "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+        "resetTime": "2025-12-01T05:14:16.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "6617beeaa9cfa777ca915b7c-1",
+                "level": 1,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.5,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "6617beeaa9cfa777ca915b7c-2",
+                "level": 2,
+                "requiredPlayerLevel": 15,
+                "requiredReputation": 0.25,
+                "requiredCommerce": 0,
+                "payRate": 0.56,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "6617beeaa9cfa777ca915b7c-3",
+                "level": 3,
+                "requiredPlayerLevel": 25,
+                "requiredReputation": 0.5,
+                "requiredCommerce": 0,
+                "payRate": 0.56,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            },
+            {
+                "id": "6617beeaa9cfa777ca915b7c-4",
+                "level": 4,
+                "requiredPlayerLevel": 35,
+                "requiredReputation": 1.2,
+                "requiredCommerce": 0,
+                "payRate": 0.62,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            }
+        ],
+        "currency": {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles",
+            "normalizedName": "roubles"
+        },
+        "barters": [
+            {
+                "id": "68fb7c146d7a9874090e39052"
+            },
+            {
+                "id": "68fb7c146d7a9874090e390c5"
+            },
+            {
+                "id": "68fb7c146d7a9874090e39103"
+            },
+            {
+                "id": "68fb7c146d7a9874090e39132"
+            },
+            {
+                "id": "68fb7c146d7a9874090e39193"
+            },
+            {
+                "id": "68fb7c146d7a9874090e391c5"
+            },
+            {
+                "id": "68fb7c146d7a9874090e39203"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39235"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39271"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39355"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39392"
+            },
+            {
+                "id": "68fb7c156d7a9874090e393fb"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39425"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39531"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39645"
+            },
+            {
+                "id": "68fb7c156d7a9874090e396a2"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39703"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39735"
+            },
+            {
+                "id": "68fb7c156d7a9874090e397d1"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39923"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39951"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39a71"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39b51"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39c35"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39c72"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39cd5"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39d11"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39e71"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39ef5"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39f35"
+            },
+            {
+                "id": "68fb7c166d7a9874090e39f72"
+            },
+            {
+                "id": "68fb7c166d7a9874090e39fd5"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a01b"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a055"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a0c2"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a0f2"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a151"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a292"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a2f2"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a358"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a395"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a3d3"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a405"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a442"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a4a1"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a5a5"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a5d5"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a615"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a651"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a775"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a7b3"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a7e5"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a871"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a966"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a9a5"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a9e5"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3aa25"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3aa65"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3aad5"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3ab15"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3abc1"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3acb5"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3acf5"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3add5"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3ae15"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3ae52"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3aed1"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3b005"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3b041"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3b115"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3b158"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3b195"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3b1d5"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3b215"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3b315"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3b3e1"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3b4e1"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3b611"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3b75b"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3b782"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3b7e5"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3b851"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3b993"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3b9c2"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3ba25"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3ba65"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3baa5"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3bb32"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3bb91"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3bc75"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3bcb5"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3bcf3"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3bd21"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3bd65"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3bda5"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3bde5"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3bf72"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3bff8"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3c033"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3c061"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3c195"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3c1d5"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3c215"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3c282"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3c2e5"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3c325"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c365"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c4a2"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c505"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c545"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c682"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c6e1"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c716"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c751"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c8a5"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c8e5"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c923"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c955"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c991"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c9c5"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3ca05"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3ca45"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3cb02"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3cb65"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3cba5"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3cbe5"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3cc25"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3cc65"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3cca5"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3ccd1"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3cd9b"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3cdc5"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3cec5"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3cf05"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3cf41"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d035"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d073"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d0a1"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d1e1"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d2c5"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d303"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d331"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d423"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d453"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d483"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d4b1"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d581"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d5b3"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d5e5"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d625"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d685"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d76b"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d795"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d7d5"
+            },
+            {
+                "id": "68fb7c1a6d7a9874090e3d815"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3d955"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3d995"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3d9d5"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3da15"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3da55"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3da95"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3dad5"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3dba5"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3dbe5"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3dc25"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3dc65"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3dca5"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3dce5"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3dd25"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3dd65"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3dda5"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3dde5"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3de25"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3de65"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3dea5"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3dee5"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3df21"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3e005"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3e0d5"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3e145"
+            },
+            {
+                "id": "68fb7c1b6d7a9874090e3e245"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e2d5"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e305"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e345"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e385"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e3f5"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e575"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e5b5"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e5f5"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e635"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e675"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e6b5"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e6f5"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e723"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e755"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e7e5"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e825"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e863"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e895"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e8e5"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e925"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e965"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e9a5"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3e9e5"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3ea25"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3ea85"
+            },
+            {
+                "id": "68fb7c1c6d7a9874090e3eac5"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3eb05"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3eb45"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3eb85"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3ebe5"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3ec25"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3ec85"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3ed75"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3edf5"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3ee35"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3ee75"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3eec5"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3ef05"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3ef65"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3efc5"
+            },
+            {
+                "id": "68fb7c1d6d7a9874090e3f025"
+            },
+            {
+                "id": "68fb7c146d7a9874090e39132-5cadf6eeae921500134b2799"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39392-5e023d34e8a400319a28ed44"
+            },
+            {
+                "id": "68fb7c156d7a9874090e396a2-5cadf6ddae9215051e1c23b2"
+            },
+            {
+                "id": "68fb7c156d7a9874090e39c72-5efb0cabfb3e451d70735af5"
+            },
+            {
+                "id": "68fb7c166d7a9874090e39f72-5a26ac0ec4a28200741e1e18"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a0f2-58dd3ad986f77403051cba8f"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a292-56dff0bed2720bb0668b4567"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a2f2-5cc80f38e4a949001152b560"
+            },
+            {
+                "id": "68fb7c166d7a9874090e3a442-5cc80f8fe4a949033b0224a2"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3ae52-60194943740c5d77f6705eea"
+            },
+            {
+                "id": "68fb7c176d7a9874090e3b782-5e023e6e34d52a55c3304f71"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3b9c2-59e0d99486f7744a32234762"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3bb32-6529302b8c26af6326029fb7"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3bf72-56dff2ced2720bb4668b4567"
+            },
+            {
+                "id": "68fb7c186d7a9874090e3c282-5a6086ea4f39f99cd479502f"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c4a2-57a0e5022459774d1673f889"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3c682-64b8725c4b75259c590fa899"
+            },
+            {
+                "id": "68fb7c196d7a9874090e3cb02-5fc275cf85fd526b824a571a"
+            }
+        ]
+    },
+    {
+        "id": "688246518448b05efd61d461",
+        "name": "Mr. Kerman",
+        "description": "<Unknown>",
+        "normalizedName": "mr-kerman",
+        "imageLink": "https://assets.tarkov.dev/688246518448b05efd61d461.webp",
+        "resetTime": "2025-12-01T05:46:53.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "688246518448b05efd61d461-1",
+                "level": 1,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.0001,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            }
+        ],
+        "currency": {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles",
+            "normalizedName": "roubles"
+        },
+        "barters": []
+    },
+    {
+        "id": "688246958448b05efd61d462",
+        "name": "Voevoda",
+        "description": "Commander of the Bogatyr squad.",
+        "normalizedName": "voevoda",
+        "imageLink": "https://assets.tarkov.dev/688246958448b05efd61d462.webp",
+        "resetTime": "2025-12-01T05:53:59.000Z",
+        "discount": 0,
+        "levels": [
+            {
+                "id": "688246958448b05efd61d462-1",
+                "level": 1,
+                "requiredPlayerLevel": 1,
+                "requiredReputation": 0,
+                "requiredCommerce": 0,
+                "payRate": 0.0001,
+                "insuranceRate": null,
+                "repairCostMultiplier": null
+            }
+        ],
+        "currency": {
+            "id": "5449016a4bdc2d6f028b456f",
+            "name": "Roubles",
+            "normalizedName": "roubles"
+        },
+        "barters": []
+    }
+]
